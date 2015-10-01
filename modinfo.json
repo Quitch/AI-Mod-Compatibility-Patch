@@ -1,10 +1,10 @@
 {
   "context": "server",
-  "identifier": "com.pa.quitch.qAIModCompatibilityPatchDev",
+  "identifier": "com.pa.quitch.qAIModCompatibilityPatch",
   "display_name": "AI Mod Compatibility Patch",
   "description": "The vanilla Titans AI updated to work alongside AI mods.",
   "author": "Quitch",
-  "version": "dev",
+  "version": "1.0",
   "build": "88163",
   "date": "2015/10/01",
   "signature": "not yet implemented",
@@ -14,10 +14,10 @@
     "titans"
   ],
   "product": ["Titans"],
-  "id": "qAIModCompatibilityPatchDev",
+  "id": "qAIModCompatibilityPatch",
   "icon": "http://i.imgur.com/NcxsYms.jpg",
   "dependencies": [
-    "com.pa.quitch.qAIModCompatibilityPersonalitiesPatchDev"
+    "com.pa.quitch.qAIModCompatibilityPersonalitiesPatch"
   ],
   "priority": 100
 }
