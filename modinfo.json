@@ -1,0 +1,23 @@
+{
+  "context": "server",
+  "identifier": "com.pa.quitch.qAIModCompatibilityPatchDev",
+  "display_name": "AI Mod Compatibility Patch",
+  "description": "The vanilla Titans AI updated to work alongside AI mods.",
+  "author": "Quitch",
+  "version": "dev",
+  "build": "88163",
+  "date": "2015/10/01",
+  "signature": "not yet implemented",
+  "forum": "https://forums.uberent.com/threads/rel-server-queller-ai-v3-0.65795/",
+  "category": [
+    "ai",
+    "titans"
+  ],
+  "product": ["Titans"],
+  "id": "qAIModCompatibilityPatchDev",
+  "icon": "http://i.imgur.com/NcxsYms.jpg",
+  "dependencies": [
+    "com.pa.quitch.qAIModCompatibilityPersonalitiesPatchDev"
+  ],
+  "priority": 100
+}
