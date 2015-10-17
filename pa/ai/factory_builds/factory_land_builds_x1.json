@@ -32,6 +32,13 @@
           {
             "test_type": "CanDeployLandFromBase",
             "boolean": true
+          },
+          {
+            "test_type": "UnitRatioOnPlanet",
+            "unit_type_string0": "Bot & Heavy",
+            "unit_type_string1": "(Tank | Bot) - Fabber",
+            "compare0": "<",
+            "value0": 0.35
           }
         ],
         [
@@ -55,6 +62,13 @@
           {
             "test_type": "OtherPlanetCanReceiveLandUnitAssistance",
             "boolean": true
+          },
+          {
+            "test_type": "UnitRatioOnPlanet",
+            "unit_type_string0": "Bot & Heavy",
+            "unit_type_string1": "(Tank | Bot) - Fabber",
+            "compare0": "<",
+            "value0": 0.35
           },
           {
             "test_type": "UnitCountOnPlanet",
