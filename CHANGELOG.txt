@@ -1,5 +1,9 @@
 # CHANGELOG
 
+#### v1.1 - 2015/10/21
+
+- Updated for release 89755
+
 #### v1.0 - 2015/10/01
 
 - Initial release synced to version 88163
