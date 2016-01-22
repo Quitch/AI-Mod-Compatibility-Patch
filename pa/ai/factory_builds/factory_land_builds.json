@@ -1,7 +1,7 @@
 {
   "build_list": [
     {
-      "name": "Vanilla - Basic Bot Fabber",
+      "name": "Basic Bot Fabber",
       "to_build": "BasicBotFabber",
       "instance_count": 1,
       "max_num_assisters": 10,
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "Vanilla - Basic Vehicle Fabber",
+      "name": "Basic Vehicle Fabber",
       "to_build": "BasicVehicleFabber",
       "instance_count": 1,
       "max_num_assisters": 10,
@@ -97,7 +97,7 @@
       ]
     },
     {
-      "name": "Vanilla - Basic Assault Bot",
+      "name": "Basic Assault Bot",
       "to_build": "BasicAssaultBot",
       "instance_count": -1,
       "max_num_assisters": 10,
@@ -202,7 +202,7 @@
       ]
     },
     {
-      "name": "Vanilla - Basic Artillery Bot",
+      "name": "Basic Artillery Bot",
       "to_build": "BasicArtilleryBot",
       "instance_count": -1,
       "max_num_assisters": 10,
@@ -281,7 +281,7 @@
       ]
     },
     {
-      "name": "Vanilla - Boom Bot",
+      "name": "Boom Bot",
       "to_build": "BoomBot",
       "instance_count": -1,
       "max_num_assisters": 10,
@@ -350,7 +350,7 @@
       ]
     },
     {
-      "name": "Vanilla - Basic Combat Fabber Bot",
+      "name": "Basic Combat Fabber Bot",
       "to_build": "BasicBotCombatFabber",
       "instance_count": 1,
       "priority": 97,
@@ -427,7 +427,7 @@
       ]
     },
     {
-      "name": "Vanilla - Land Scout - Intel",
+      "name": "Land Scout - Intel",
       "to_build": "LandScout",
       "instance_count": 1,
       "shared_instance_count": "LandScout",
@@ -501,7 +501,7 @@
       ]
     },
     {
-      "name": "Vanilla - Land Scout",
+      "name": "Land Scout",
       "to_build": "LandScout",
       "instance_count": 1,
       "shared_instance_count": "LandScout",
@@ -569,7 +569,7 @@
       ]
     },
     {
-      "name": "Vanilla - Light Laser Tank",
+      "name": "Light Laser Tank",
       "to_build": "LightLaserTank",
       "instance_count": -1,
       "max_num_assisters": 10,
@@ -624,7 +624,7 @@
       ]
     },
     {
-      "name": "Vanilla - Basic Armor Tank",
+      "name": "Basic Armor Tank",
       "to_build": "BasicArmorTank",
       "instance_count": -1,
       "max_num_assisters": 10,
@@ -697,7 +697,7 @@
       ]
     },
     {
-      "name": "Vanilla - Basic AA Vehicle",
+      "name": "Basic AA Vehicle",
       "to_build": "BasicAAVehicle",
       "instance_count": 1,
       "priority": 97,
@@ -817,7 +817,7 @@
       ]
     },
     {
-      "name": "Vanilla - Advanced Bot Fabber",
+      "name": "Advanced Bot Fabber",
       "to_build": "AdvancedBotFabber",
       "instance_count": 1,
       "max_num_assisters": 15,
@@ -867,7 +867,7 @@
       ]
     },
     {
-      "name": "Vanilla - Advanced Vehicle Fabber",
+      "name": "Advanced Vehicle Fabber",
       "to_build": "AdvancedVehicleFabber",
       "instance_count": 1,
       "max_num_assisters": 15,
@@ -917,7 +917,7 @@
       ]
     },
     {
-      "name": "Vanilla - Advanced Assault Bot",
+      "name": "Advanced Assault Bot",
       "to_build": "AdvancedAssaultBot",
       "instance_count": -1,
       "max_num_assisters": 15,
@@ -968,7 +968,7 @@
       ]
     },
     {
-      "name": "Vanilla - Advanced Combat Fabber Bot",
+      "name": "Advanced Combat Fabber Bot",
       "to_build": "AdvancedBotCombatFabber",
       "instance_count": 1,
       "priority": 199,
@@ -1035,7 +1035,7 @@
       ]
     },
     {
-      "name": "Vanilla - Advanced Artillery Bot",
+      "name": "Advanced Artillery Bot",
       "to_build": "AdvancedArtilleryBot",
       "instance_count": -1,
       "max_num_assisters": 15,
@@ -1103,7 +1103,7 @@
       ]
     },
     {
-      "name": "Vanilla - Advanced Tactical Bot",
+      "name": "Advanced Tactical Bot",
       "to_build": "TMLBot",
       "instance_count": -1,
       "max_num_assisters": 15,
@@ -1171,7 +1171,7 @@
       ]
     },
     {
-      "name": "Vanilla - Advanced Laser Tank",
+      "name": "Advanced Laser Tank",
       "to_build": "AdvancedLaserTank",
       "instance_count": -1,
       "max_num_assisters": 15,
@@ -1225,7 +1225,7 @@
       ]
     },
     {
-      "name": "Vanilla - Advanced Armor Tank",
+      "name": "Advanced Armor Tank",
       "to_build": "AdvancedArmorTank",
       "instance_count": -1,
       "max_num_assisters": 15,
@@ -1293,7 +1293,7 @@
       ]
     },
     {
-      "name": "Vanilla - Advanced Artillery Vehicle",
+      "name": "Advanced Artillery Vehicle",
       "to_build": "AdvancedArtilleryVehicle",
       "instance_count": -1,
       "max_num_assisters": 15,

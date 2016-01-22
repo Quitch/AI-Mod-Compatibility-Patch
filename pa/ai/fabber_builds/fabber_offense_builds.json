@@ -1,7 +1,7 @@
 {
   "build_list": [
     {
-      "name": "Vanilla - TML",
+      "name": "TML",
       "to_build": "TML",
       "instance_count": 1,
       "min_num_assisters": 2,
@@ -72,7 +72,7 @@
       }
     },
     {
-      "name": "Vanilla - Nuke Silo",
+      "name": "Nuke Silo",
       "to_build": "NukeSilo",
       "instance_count": 1,
       "shared_instance_count": "NukeSilo",
@@ -127,7 +127,7 @@
       }
     },
     {
-      "name": "Vanilla - Nuke Silo - Alone",
+      "name": "Nuke Silo - Alone",
       "to_build": "NukeSilo",
       "instance_count": 1,
       "shared_instance_count": "NukeSilo",
@@ -190,7 +190,7 @@
       }
     },
     {
-      "name": "Vanilla - Nuke Silo - No Antis",
+      "name": "Nuke Silo - No Antis",
       "to_build": "NukeSilo",
       "instance_count": 1,
       "shared_instance_count": "NukeSilo",
@@ -255,7 +255,7 @@
       }
     },
     {
-      "name": "Vanilla - Unit Cannon",
+      "name": "Unit Cannon",
       "to_build": "UnitCannon",
       "instance_count": 1,
       "shared_instance_count": "UnitCannon",
@@ -310,7 +310,7 @@
       }
     },
     {
-      "name": "Vanilla - Unit Cannon - Alone",
+      "name": "Unit Cannon - Alone",
       "to_build": "UnitCannon",
       "instance_count": 1,
       "shared_instance_count": "UnitCannon",
@@ -373,7 +373,7 @@
       }
     },
     {
-      "name": "Vanilla - Long Range Artillery",
+      "name": "Long Range Artillery",
       "to_build": "LongRangeArtillery",
       "instance_count": 1,
       "min_num_assisters": 3,
@@ -449,7 +449,7 @@
       }
     },
     {
-      "name": "Vanilla - Control Module",
+      "name": "Control Module",
       "to_build": "ControlModule",
       "instance_count": 1,
       "min_num_assisters": 8,

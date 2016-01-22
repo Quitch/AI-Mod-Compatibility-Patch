@@ -1,7 +1,7 @@
 {
   "build_list": [
     {
-      "name": "Vanilla - Basic Naval Fabber",
+      "name": "Basic Naval Fabber",
       "to_build": "BasicNavalFabber",
       "instance_count": 1,
       "max_num_assisters": 10,
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Vanilla - Destroyer",
+      "name": "Destroyer",
       "to_build": "Destroyer",
       "instance_count": -1,
       "max_num_assisters": 10,
@@ -67,7 +67,7 @@
       ]
     },
     {
-      "name": "Vanilla - Attack Sub",
+      "name": "Attack Sub",
       "to_build": "Sub",
       "instance_count": -1,
       "max_num_assisters": 10,
@@ -110,7 +110,7 @@
       ]
     },
     {
-      "name": "Vanilla - Frigate",
+      "name": "Frigate",
       "to_build": "Frigate",
       "instance_count": -1,
       "max_num_assisters": 10,
@@ -140,7 +140,7 @@
       ]
     },
     {
-      "name": "Vanilla - Advanced Naval Fabber",
+      "name": "Advanced Naval Fabber",
       "to_build": "AdvancedNavalFabber",
       "instance_count": 1,
       "max_num_assisters": 15,
@@ -176,7 +176,7 @@
       ]
     },
     {
-      "name": "Vanilla - Battleship",
+      "name": "Battleship",
       "to_build": "Battleship",
       "instance_count": -1,
       "max_num_assisters": 15,
@@ -206,7 +206,7 @@
       ]
     },
     {
-      "name": "Vanilla - MissleShip",
+      "name": "MissleShip",
       "to_build": "MissleShip",
       "instance_count": -1,
       "max_num_assisters": 15,
@@ -236,7 +236,7 @@
       ]
     },
     {
-      "name": "Vanilla - Missile Sub",
+      "name": "Missile Sub",
       "to_build": "MissileSub",
       "instance_count": -1,
       "max_num_assisters": 15,

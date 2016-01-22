@@ -1,7 +1,7 @@
 {
   "build_list": [
     {
-      "name": "Vanilla - Advanced Air Bomber",
+      "name": "Advanced Air Bomber",
       "to_build": "HeavyBomber",
       "instance_count": -1,
       "max_num_assisters": 10,
@@ -47,7 +47,7 @@
       ]
     },
     {
-      "name": "Vanilla - Support Platform",
+      "name": "Support Platform",
       "to_build": "SupportPlatform",
       "instance_count": 1,
       "max_num_assisters": 10,

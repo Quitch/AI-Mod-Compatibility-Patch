@@ -1,7 +1,7 @@
 {
   "build_list": [
     {
-      "name": "Vanilla - Orbital Launcher",
+      "name": "Orbital Launcher",
       "to_build": "OrbitalLauncher",
       "instance_count": 1,
       "shared_instance_count": "OrbitalLauncher",
@@ -91,7 +91,7 @@
       }
     },
     {
-      "name": "Vanilla - Orbital Launcher - Rush",
+      "name": "Orbital Launcher - Rush",
       "to_build": "OrbitalLauncher",
       "instance_count": 1,
       "shared_instance_count": "OrbitalLauncher",
@@ -241,7 +241,7 @@
       }
     },
     {
-      "name": "Vanilla - Orbital Factory",
+      "name": "Orbital Factory",
       "to_build": "OrbitalFactory",
       "instance_count": 1,
       "priority": 485,
@@ -288,7 +288,7 @@
       }
     },
     {
-      "name": "Vanilla - Defense Satellite",
+      "name": "Defense Satellite",
       "to_build": "DefenseSatellite",
       "instance_count": 1,
       "priority": 379,
@@ -409,7 +409,7 @@
       }
     },
     {
-      "name": "Vanilla - Delta V Engine",
+      "name": "Delta V Engine",
       "to_build": "PlanetEngine",
       "instance_count": 1,
       "min_num_assisters": 8,
@@ -483,7 +483,7 @@
       }
     },
     {
-      "name": "Vanilla - Orbital Mining Platform",
+      "name": "Orbital Mining Platform",
       "to_build": "OrbitalExtractor",
       "instance_count": 1,
       "min_num_assisters": 3,
@@ -559,7 +559,7 @@
       }
     },
     {
-      "name": "Vanilla - Move Fabber To Planet",
+      "name": "Move Fabber To Planet",
       "instance_count": 1,
       "priority": 800,
       "builders": [
@@ -599,7 +599,7 @@
       "task_type": "TransportToPlanet"
     },
     {
-      "name": "Vanilla - Move Orbital Fabber To Planet",
+      "name": "Move Orbital Fabber To Planet",
       "instance_count": 1,
       "priority": 800,
       "builders": [
@@ -627,7 +627,7 @@
       "task_type": "OrbitalFabberMoveToPlanet"
     },
     {
-      "name": "Vanilla - Move Orbital Fabber To Safe Planet",
+      "name": "Move Orbital Fabber To Safe Planet",
       "instance_count": 1,
       "priority": 800,
       "builders": [

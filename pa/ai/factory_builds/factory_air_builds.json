@@ -1,7 +1,7 @@
 {
   "build_list": [
     {
-      "name": "Vanilla - Basic Air Fabber",
+      "name": "Basic Air Fabber",
       "to_build": "BasicAirFabber",
       "instance_count": 1,
       "max_num_assisters": 10,
@@ -49,7 +49,7 @@
       ]
     },
     {
-      "name": "Vanilla - Air Scout",
+      "name": "Air Scout",
       "to_build": "AirScout",
       "instance_count": 1,
       "priority": 98,
@@ -127,7 +127,7 @@
       ]
     },
     {
-      "name": "Vanilla - Basic Air Fighter",
+      "name": "Basic Air Fighter",
       "to_build": "BasicFighter",
       "instance_count": -1,
       "max_num_assisters": 10,
@@ -214,7 +214,7 @@
       ]
     },
     {
-      "name": "Vanilla - Basic Air Bomber",
+      "name": "Basic Air Bomber",
       "to_build": "BasicBomber",
       "instance_count": -1,
       "max_num_assisters": 10,
@@ -260,7 +260,7 @@
       ]
     },
     {
-      "name": "Vanilla - Advanced Air Fabber",
+      "name": "Advanced Air Fabber",
       "to_build": "AdvancedAirFabber",
       "instance_count": 1,
       "max_num_assisters": 15,
@@ -310,7 +310,7 @@
       ]
     },
     {
-      "name": "Vanilla - Advanced Air Bomber",
+      "name": "Advanced Air Bomber",
       "to_build": "AdvancedBomber",
       "instance_count": -1,
       "max_num_assisters": 15,
@@ -356,7 +356,7 @@
       ]
     },
     {
-      "name": "Vanilla - Advanced Gunship",
+      "name": "Advanced Gunship",
       "to_build": "AdvancedGunship",
       "instance_count": -1,
       "max_num_assisters": 15,

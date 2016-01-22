@@ -1,7 +1,7 @@
 {
   "build_list": [
     {
-      "name": "Vanilla - Vehicle Scout Platoon",
+      "name": "Vehicle Scout Platoon",
       "to_build": "Vehicle_Scout",
       "instance_count": 5,
       "shared_instance_count": "VehicleScout",
@@ -30,7 +30,7 @@
       "task_type": "Scout"
     },
     {
-      "name": "Vanilla - Bot Scout Platoon",
+      "name": "Bot Scout Platoon",
       "to_build": "Bot_Scout",
       "instance_count": 5,
       "shared_instance_count": "BotScout",
@@ -59,7 +59,7 @@
       "task_type": "Scout"
     },
     {
-      "name": "Vanilla - Land Transfer To Planet - Alone",
+      "name": "Land Transfer To Planet - Alone",
       "to_build": "Land_Attack_Max",
       "instance_count": -1,
       "shared_instance_count": "LandTransferToPlanet",
@@ -99,7 +99,7 @@
       "task_type": "TeleportLandToPlanet"
     },
     {
-      "name": "Vanilla - Land Transfer To Planet",
+      "name": "Land Transfer To Planet",
       "to_build": "Land_Attack_XLarge",
       "instance_count": 1,
       "shared_instance_count": "LandTransferToPlanet",
@@ -139,7 +139,7 @@
       "task_type": "TeleportLandToPlanet"
     },
     {
-      "name": "Vanilla - Land Raid Platoon Small",
+      "name": "Land Raid Platoon Small",
       "to_build": "Land_Raid_Small",
       "instance_count": 1,
       "priority": 109,
@@ -177,7 +177,7 @@
       "task_type": "LandAttack"
     },
     {
-      "name": "Vanilla - Land Raid Platoon Medium",
+      "name": "Land Raid Platoon Medium",
       "to_build": "Land_Raid_Medium",
       "instance_count": 1,
       "priority": 108,
@@ -220,7 +220,7 @@
       "task_type": "LandAttack"
     },
     {
-      "name": "Vanilla - Land Raid Platoon Large",
+      "name": "Land Raid Platoon Large",
       "to_build": "Land_Raid_Large",
       "instance_count": 1,
       "priority": 107,
@@ -263,7 +263,7 @@
       "task_type": "LandAttack"
     },
     {
-      "name": "Vanilla - Land Raid Platoon XLarge",
+      "name": "Land Raid Platoon XLarge",
       "to_build": "Land_Raid_XLarge",
       "instance_count": 1,
       "priority": 106,
@@ -306,7 +306,7 @@
       "task_type": "LandAttack"
     },
     {
-      "name": "Vanilla - Land Raid Platoon Max",
+      "name": "Land Raid Platoon Max",
       "to_build": "Land_Raid_Max",
       "instance_count": 1,
       "priority": 105,
@@ -343,7 +343,7 @@
       "task_type": "LandAttack"
     },
     {
-      "name": "Vanilla - Swarm Raid Platoon Small",
+      "name": "Swarm Raid Platoon Small",
       "to_build": "Swarm_Raid_Small",
       "instance_count": 1,
       "priority": 109,
@@ -386,7 +386,7 @@
       "task_type": "LandAttack"
     },
     {
-      "name": "Vanilla - Swarm Raid Platoon Medium",
+      "name": "Swarm Raid Platoon Medium",
       "to_build": "Swarm_Raid_Medium",
       "instance_count": 1,
       "priority": 108,
@@ -429,7 +429,7 @@
       "task_type": "LandAttack"
     },
     {
-      "name": "Vanilla - Swarm Raid Platoon Large",
+      "name": "Swarm Raid Platoon Large",
       "to_build": "Swarm_Raid_Large",
       "instance_count": 1,
       "priority": 107,
@@ -472,7 +472,7 @@
       "task_type": "LandAttack"
     },
     {
-      "name": "Vanilla - Swarm Raid Platoon XLarge",
+      "name": "Swarm Raid Platoon XLarge",
       "to_build": "Swarm_Raid_XLarge",
       "instance_count": 1,
       "priority": 106,
@@ -515,7 +515,7 @@
       "task_type": "LandAttack"
     },
     {
-      "name": "Vanilla - Swarm Raid Platoon Max",
+      "name": "Swarm Raid Platoon Max",
       "to_build": "Swarm_Raid_Max",
       "instance_count": 1,
       "priority": 105,
@@ -552,7 +552,7 @@
       "task_type": "LandAttack"
     },
     {
-      "name": "Vanilla - Boom Raid Platoon Small",
+      "name": "Boom Raid Platoon Small",
       "to_build": "Boom_Raid_Small",
       "instance_count": 1,
       "priority": 109,
@@ -595,7 +595,7 @@
       "task_type": "LandAttack"
     },
     {
-      "name": "Vanilla - Boom Raid Platoon Medium",
+      "name": "Boom Raid Platoon Medium",
       "to_build": "Boom_Raid_Medium",
       "instance_count": 1,
       "priority": 108,
@@ -638,7 +638,7 @@
       "task_type": "LandAttack"
     },
     {
-      "name": "Vanilla - Boom Raid Platoon Large",
+      "name": "Boom Raid Platoon Large",
       "to_build": "Boom_Raid_Large",
       "instance_count": 1,
       "priority": 107,
@@ -681,7 +681,7 @@
       "task_type": "LandAttack"
     },
     {
-      "name": "Vanilla - Boom Raid Platoon XLarge",
+      "name": "Boom Raid Platoon XLarge",
       "to_build": "Boom_Raid_XLarge",
       "instance_count": 1,
       "priority": 106,
@@ -724,7 +724,7 @@
       "task_type": "LandAttack"
     },
     {
-      "name": "Vanilla - Boom Raid Platoon Max",
+      "name": "Boom Raid Platoon Max",
       "to_build": "Boom_Raid_Max",
       "instance_count": 1,
       "priority": 105,
@@ -761,7 +761,7 @@
       "task_type": "LandAttack"
     },
     {
-      "name": "Vanilla - Land Attack Platoon Small",
+      "name": "Land Attack Platoon Small",
       "to_build": "Land_Attack_Small",
       "instance_count": -1,
       "priority": 104,
@@ -799,7 +799,7 @@
       "task_type": "LandAttack"
     },
     {
-      "name": "Vanilla - Land Attack Platoon Medium",
+      "name": "Land Attack Platoon Medium",
       "to_build": "Land_Attack_Medium",
       "instance_count": -1,
       "priority": 103,
@@ -842,7 +842,7 @@
       "task_type": "LandAttack"
     },
     {
-      "name": "Vanilla - Land Attack Platoon Large",
+      "name": "Land Attack Platoon Large",
       "to_build": "Land_Attack_Large",
       "instance_count": -1,
       "priority": 102,
@@ -885,7 +885,7 @@
       "task_type": "LandAttack"
     },
     {
-      "name": "Vanilla - Land Attack Platoon XLarge",
+      "name": "Land Attack Platoon XLarge",
       "to_build": "Land_Attack_XLarge",
       "instance_count": -1,
       "priority": 101,
@@ -928,7 +928,7 @@
       "task_type": "LandAttack"
     },
     {
-      "name": "Vanilla - Land Attack Platoon Max",
+      "name": "Land Attack Platoon Max",
       "to_build": "Land_Attack_Max",
       "instance_count": -1,
       "priority": 100,
@@ -965,7 +965,7 @@
       "task_type": "LandAttack"
     },
     {
-      "name": "Vanilla - Land Attack Titan",
+      "name": "Land Attack Titan",
       "to_build": "Land_Attack_Titan",
       "instance_count": -1,
       "priority": 110,

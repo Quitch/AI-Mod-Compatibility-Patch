@@ -1,7 +1,7 @@
 {
   "build_list": [
     {
-      "name": "Vanilla - Basic Air Defense - Mex",
+      "name": "Basic Air Defense - Mex",
       "to_build": "BasicAirDefense",
       "instance_count": 1,
       "shared_instance_count": "BasicAirDefense",
@@ -102,7 +102,7 @@
       }
     },
     {
-      "name": "Vanilla - Basic Land Defense Single - Mex",
+      "name": "Basic Land Defense Single - Mex",
       "to_build": "BasicLandDefenseSingle",
       "instance_count": 1,
       "shared_instance_count": "BasicLandDefense",
@@ -213,7 +213,7 @@
       }
     },
     {
-      "name": "Vanilla - Basic Air Defense",
+      "name": "Basic Air Defense",
       "to_build": "BasicAirDefense",
       "instance_count": 1,
       "shared_instance_count": "BasicAirDefense",
@@ -298,7 +298,7 @@
       }
     },
     {
-      "name": "Vanilla - Basic Air Defense - Threat",
+      "name": "Basic Air Defense - Threat",
       "to_build": "BasicAirDefense",
       "instance_count": 1,
       "shared_instance_count": "BasicAirDefense",
@@ -370,7 +370,7 @@
       }
     },
     {
-      "name": "Vanilla - Basic Land Defense Single",
+      "name": "Basic Land Defense Single",
       "to_build": "BasicLandDefenseSingle",
       "instance_count": 1,
       "shared_instance_count": "BasicLandDefense",
@@ -475,7 +475,7 @@
       }
     },
     {
-      "name": "Vanilla - Basic Land Defense Single - Threat",
+      "name": "Basic Land Defense Single - Threat",
       "to_build": "BasicLandDefenseSingle",
       "instance_count": 1,
       "shared_instance_count": "BasicLandDefense",
@@ -551,7 +551,7 @@
       }
     },
     {
-      "name": "Vanilla - Basic Land Defense",
+      "name": "Basic Land Defense",
       "to_build": "BasicLandDefense",
       "instance_count": 1,
       "priority": 85,
@@ -645,7 +645,7 @@
       }
     },
     {
-      "name": "Vanilla - Basic Land Defense - Threat",
+      "name": "Basic Land Defense - Threat",
       "to_build": "BasicLandDefense",
       "instance_count": 1,
       "priority": 262,
@@ -715,7 +715,7 @@
       }
     },
     {
-      "name": "Vanilla - Basic Artillery",
+      "name": "Basic Artillery",
       "to_build": "BasicArtillery",
       "instance_count": 1,
       "min_num_assisters": 2,
@@ -793,7 +793,7 @@
       }
     },
     {
-      "name": "Vanilla - Advanced Air Defense",
+      "name": "Advanced Air Defense",
       "to_build": "AdvancedAirDefense",
       "instance_count": 1,
       "priority": 255,
@@ -893,7 +893,7 @@
       }
     },
     {
-      "name": "Vanilla - Advanced Air Defense - Threat",
+      "name": "Advanced Air Defense - Threat",
       "to_build": "AdvancedAirDefense",
       "instance_count": 1,
       "priority": 379,
@@ -969,7 +969,7 @@
       }
     },
     {
-      "name": "Vanilla - Advanced Land Defense",
+      "name": "Advanced Land Defense",
       "to_build": "AdvancedLandDefense",
       "instance_count": 1,
       "priority": 255,
@@ -1064,7 +1064,7 @@
       }
     },
     {
-      "name": "Vanilla - Advanced Land Defense - Threat",
+      "name": "Advanced Land Defense - Threat",
       "to_build": "AdvancedLandDefense",
       "instance_count": 1,
       "priority": 379,
@@ -1135,7 +1135,7 @@
       }
     },
     {
-      "name": "Vanilla - Wall",
+      "name": "Wall",
       "to_build": "Wall",
       "instance_count": 1,
       "priority": 0,
@@ -1187,7 +1187,7 @@
       }
     },
     {
-      "name": "Vanilla - Umbrella",
+      "name": "Umbrella",
       "to_build": "Umbrella",
       "instance_count": 1,
       "priority": 378,
@@ -1308,7 +1308,7 @@
       }
     },
     {
-      "name": "Vanilla - Umbrella - Rush",
+      "name": "Umbrella - Rush",
       "to_build": "Umbrella",
       "instance_count": 1,
       "priority": 386,
@@ -1429,7 +1429,7 @@
       }
     },
     {
-      "name": "Vanilla - Anti Nuke Silo",
+      "name": "Anti Nuke Silo",
       "to_build": "AntiNukeSilo",
       "instance_count": 1,
       "shared_instance_count": "AntiNukeSilo",
@@ -1518,7 +1518,7 @@
       }
     },
     {
-      "name": "Vanilla - Anti Nuke Silo - Rush",
+      "name": "Anti Nuke Silo - Rush",
       "to_build": "AntiNukeSilo",
       "instance_count": 1,
       "shared_instance_count": "AntiNukeSilo",

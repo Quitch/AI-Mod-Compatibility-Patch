@@ -1,7 +1,7 @@
 {
   "build_list": [
     {
-      "name": "Vanilla - Fabrication Barge",
+      "name": "Fabrication Barge",
       "to_build": "SupportBarge",
       "instance_count": 1,
       "priority": 97,
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "name": "Vanilla - Hover Ship",
+      "name": "Hover Ship",
       "to_build": "HoverShip",
       "instance_count": -1,
       "max_num_assisters": 15,
@@ -63,7 +63,7 @@
       ]
     },
     {
-      "name": "Vanilla - Drone Carrier",
+      "name": "Drone Carrier",
       "to_build": "DroneCarrier",
       "instance_count": -1,
       "max_num_assisters": 15,

@@ -1,7 +1,7 @@
 {
   "build_list": [
     {
-      "name": "Vanilla - Basic Air Factory",
+      "name": "Basic Air Factory",
       "to_build": "BasicAirFactory",
       "instance_count": 1,
       "shared_instance_count": "BasicFactory",
@@ -177,7 +177,7 @@
       }
     },
     {
-      "name": "Vanilla - Basic Air Factory - Wasting",
+      "name": "Basic Air Factory - Wasting",
       "to_build": "BasicAirFactory",
       "instance_count": 1,
       "shared_instance_count": "BasicFactory",
@@ -294,7 +294,7 @@
       }
     },
     {
-      "name": "Vanilla - Advanced Air Factory",
+      "name": "Advanced Air Factory",
       "to_build": "AdvancedAirFactory",
       "instance_count": 1,
       "shared_instance_count": "AdvancedFactory",
@@ -409,7 +409,7 @@
       }
     },
     {
-      "name": "Vanilla - Advanced Air Factory - Wasting",
+      "name": "Advanced Air Factory - Wasting",
       "to_build": "AdvancedAirFactory",
       "instance_count": 1,
       "shared_instance_count": "AdvancedFactory",

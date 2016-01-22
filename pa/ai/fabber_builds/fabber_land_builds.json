@@ -1,7 +1,7 @@
 {
   "build_list": [
     {
-      "name": "Vanilla - Basic Bot Factory",
+      "name": "Basic Bot Factory",
       "to_build": "BasicBotFactory",
       "instance_count": 1,
       "shared_instance_count": "BasicFactory",
@@ -127,7 +127,7 @@
       }
     },
     {
-      "name": "Vanilla - Basic Vehicle Factory",
+      "name": "Basic Vehicle Factory",
       "to_build": "BasicVehicleFactory",
       "instance_count": 1,
       "shared_instance_count": "BasicFactory",
@@ -265,7 +265,7 @@
       }
     },
     {
-      "name": "Vanilla - Basic Bot Factory - Wasting",
+      "name": "Basic Bot Factory - Wasting",
       "to_build": "BasicBotFactory",
       "instance_count": 1,
       "shared_instance_count": "BasicFactory",
@@ -377,7 +377,7 @@
       }
     },
     {
-      "name": "Vanilla - Basic Vehicle Factory - Wasting",
+      "name": "Basic Vehicle Factory - Wasting",
       "to_build": "BasicVehicleFactory",
       "instance_count": 1,
       "shared_instance_count": "BasicFactory",
@@ -497,7 +497,7 @@
       }
     },
     {
-      "name": "Vanilla - Advanced Bot Factory",
+      "name": "Advanced Bot Factory",
       "to_build": "AdvancedBotFactory",
       "instance_count": 1,
       "shared_instance_count": "AdvancedFactory",
@@ -592,7 +592,7 @@
       }
     },
     {
-      "name": "Vanilla - Advanced Vehicle Factory",
+      "name": "Advanced Vehicle Factory",
       "to_build": "AdvancedVehicleFactory",
       "instance_count": 1,
       "shared_instance_count": "AdvancedFactory",
@@ -694,7 +694,7 @@
       }
     },
     {
-      "name": "Vanilla - Advanced Bot Factory - Wasting",
+      "name": "Advanced Bot Factory - Wasting",
       "to_build": "AdvancedBotFactory",
       "instance_count": 1,
       "shared_instance_count": "AdvancedFactory",
@@ -773,7 +773,7 @@
       }
     },
     {
-      "name": "Vanilla - Advanced Vehicle Factory - Wasting",
+      "name": "Advanced Vehicle Factory - Wasting",
       "to_build": "AdvancedVehicleFactory",
       "instance_count": 1,
       "shared_instance_count": "AdvancedFactory",

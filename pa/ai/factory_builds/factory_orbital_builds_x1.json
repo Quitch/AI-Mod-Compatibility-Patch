@@ -1,7 +1,7 @@
 {
   "build_list": [
     {
-      "name": "Vanilla - Probe - Other planet",
+      "name": "Probe - Other planet",
       "to_build": "OrbitalProbe",
       "instance_count": 1,
       "shared_instance_count": "ReconAssistance",
@@ -39,7 +39,7 @@
       ]
     },
     {
-      "name": "Vanilla - Orbital Railgun",
+      "name": "Orbital Railgun",
       "to_build": "OrbitalRailgun",
       "instance_count": 1,
       "max_num_assisters": 5,
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "name": "Vanilla - Orbital Railgun - Threat",
+      "name": "Orbital Railgun - Threat",
       "to_build": "OrbitalRailgun",
       "instance_count": 1,
       "min_num_assisters": 2,
@@ -147,7 +147,7 @@
       ]
     },
     {
-      "name": "Vanilla - Orbital Battleship",
+      "name": "Orbital Battleship",
       "to_build": "OrbitalBattleShip",
       "instance_count": 1,
       "max_num_assisters": 5,

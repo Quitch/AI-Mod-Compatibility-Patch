@@ -1,7 +1,7 @@
 {
   "build_list": [
     {
-      "name": "Vanilla - Tesla Bot",
+      "name": "Tesla Bot",
       "to_build": "TeslaBot",
       "instance_count": -1,
       "max_num_assisters": 10,
@@ -80,7 +80,7 @@
       ]
     },
     {
-      "name": "Vanilla - Hover Tank",
+      "name": "Hover Tank",
       "to_build": "HoverTank",
       "instance_count": -1,
       "max_num_assisters": 10,
@@ -149,7 +149,7 @@
       ]
     },
     {
-      "name": "Vanilla - Support Commander",
+      "name": "Support Commander",
       "to_build": "SupportCommander",
       "instance_count": 1,
       "max_num_assisters": 15,
@@ -185,7 +185,7 @@
       ]
     },
     {
-      "name": "Vanilla - Nano Swarm",
+      "name": "Nano Swarm",
       "to_build": "NanoSwarm",
       "instance_count": -1,
       "max_num_assisters": 10,
@@ -264,7 +264,7 @@
       ]
     },
     {
-      "name": "Vanilla - Advanced AA Vehicle",
+      "name": "Advanced AA Vehicle",
       "to_build": "FlakTank",
       "instance_count": -1,
       "max_num_assisters": 10,
