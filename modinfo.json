@@ -1,14 +1,14 @@
 {
   "context": "server",
   "identifier": "com.pa.quitch.qAIModCompatibilityPatch",
-  "display_name": "AI Mod Compatibility Patch v1.1",
+  "display_name": "AI Mod Compatibility Patch v1.2",
   "description": "The vanilla Titans AI updated to work alongside AI mods.",
   "author": "Quitch",
-  "version": "1.1",
-  "build": "89755",
-  "date": "2015/10/21",
+  "version": "1.2",
+  "build": "89528",
+  "date": "2016/01/22",
   "signature": "not yet implemented",
-  "forum": "https://forums.uberent.com/threads/rel-server-ai-mod-compatibility-patch-v1-1.70782/",
+  "forum": "https://forums.uberent.com/threads/rel-titans-server-ai-mod-compatibility-patch-v1-1.70782/",
   "category": [
     "ai",
     "titans"

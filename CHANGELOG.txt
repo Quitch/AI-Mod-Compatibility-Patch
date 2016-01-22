@@ -1,5 +1,9 @@
 # CHANGELOG
 
+#### v1.2 - 2016/01/22
+
+- Remove vanilla prefixes from build condition names to fix 10 second delay in building bug introduced in 89528
+
 #### v1.1 - 2015/10/21
 
 - Updated for release 89755
