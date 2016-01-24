@@ -8,7 +8,7 @@
       "priority": 261,
       "base_sort": "FromPerimeter",
       "builders": [
-        "AnyBasicFabber"
+        "AnyUberBasicFabber"
       ],
       "build_conditions": [
         [
@@ -109,7 +109,7 @@
       "priority": 261,
       "base_sort": "FromPerimeter",
       "builders": [
-        "AnyBasicFabber"
+        "AnyUberBasicFabber"
       ],
       "build_conditions": [
         [
@@ -220,7 +220,7 @@
       "priority": 85,
       "base_sort": "FromPerimeter",
       "builders": [
-        "AnyBasicFabber"
+        "AnyUberBasicFabber"
       ],
       "build_conditions": [
         [
@@ -306,7 +306,7 @@
       "base_sort": "FromPerimeter",
       "builders": [
         "UberCommander",
-        "AnyBasicFabber"
+        "AnyUberBasicFabber"
       ],
       "build_conditions": [
         [
@@ -377,7 +377,7 @@
       "priority": 85,
       "base_sort": "FromPerimeter",
       "builders": [
-        "AnyBasicFabber"
+        "AnyUberBasicFabber"
       ],
       "build_conditions": [
         [
@@ -557,7 +557,7 @@
       "priority": 85,
       "base_sort": "FromPerimeter",
       "builders": [
-        "AnyBasicFabber"
+        "AnyUberBasicFabber"
       ],
       "build_conditions": [
         [
@@ -651,7 +651,7 @@
       "priority": 262,
       "base_sort": "FromPerimeter",
       "builders": [
-        "AnyBasicFabber"
+        "AnyUberBasicFabber"
       ],
       "build_conditions": [
         [
@@ -722,7 +722,7 @@
       "max_num_assisters": 5,
       "priority": 245,
       "builders": [
-        "AnyBasicFabber"
+        "AnyUberBasicFabber"
       ],
       "build_conditions": [
         [
@@ -799,7 +799,7 @@
       "priority": 255,
       "base_sort": "FromPerimeter",
       "builders": [
-        "AnyAdvancedFabber",
+        "AnyUberAdvancedFabber",
         "SupportCommander"
       ],
       "build_conditions": [
@@ -899,7 +899,7 @@
       "priority": 379,
       "base_sort": "FromPerimeter",
       "builders": [
-        "AnyAdvancedFabber",
+        "AnyUberAdvancedFabber",
         "SupportCommander"
       ],
       "build_conditions": [
@@ -975,7 +975,7 @@
       "priority": 255,
       "base_sort": "FromPerimeter",
       "builders": [
-        "AnyAdvancedFabber",
+        "AnyUberAdvancedFabber",
         "SupportCommander"
       ],
       "build_conditions": [
@@ -1070,7 +1070,7 @@
       "priority": 379,
       "base_sort": "FromPerimeter",
       "builders": [
-        "AnyAdvancedFabber",
+        "AnyUberAdvancedFabber",
         "SupportCommander"
       ],
       "build_conditions": [
@@ -1141,8 +1141,8 @@
       "priority": 0,
       "base_sort": "FromPerimeter",
       "builders": [
-        "AnyBasicFabber",
-        "AnyAdvancedFabber"
+        "AnyUberBasicFabber",
+        "AnyUberAdvancedFabber"
       ],
       "build_conditions": [
         [
@@ -1192,8 +1192,8 @@
       "instance_count": 1,
       "priority": 378,
       "builders": [
-        "AnyBasicFabber",
-        "AnyAdvancedFabber"
+        "AnyUberBasicFabber",
+        "AnyUberAdvancedFabber"
       ],
       "build_conditions": [
         [
@@ -1313,8 +1313,8 @@
       "instance_count": 1,
       "priority": 386,
       "builders": [
-        "AnyBasicFabber",
-        "AnyAdvancedFabber"
+        "AnyUberBasicFabber",
+        "AnyUberAdvancedFabber"
       ],
       "build_conditions": [
         [
@@ -1435,7 +1435,7 @@
       "shared_instance_count": "AntiNukeSilo",
       "priority": 380,
       "builders": [
-        "AnyAdvancedFabber",
+        "AnyUberAdvancedFabber",
         "SupportCommander"
       ],
       "build_conditions": [
@@ -1526,7 +1526,7 @@
       "min_num_assisters": 5,
       "max_num_assisters": 12,
       "builders": [
-        "AnyAdvancedFabber",
+        "AnyUberAdvancedFabber",
         "SupportCommander"
       ],
       "build_conditions": [

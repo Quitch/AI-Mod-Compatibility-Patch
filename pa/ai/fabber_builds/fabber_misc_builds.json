@@ -6,8 +6,8 @@
       "priority": 1,
       "builders": [
         "UberCommander",
-        "AnyBasicFabber",
-        "AnyAdvancedFabber",
+        "AnyUberBasicFabber",
+        "AnyUberAdvancedFabber",
         "SupportCommander",
         "OrbitalFabber"
       ],
@@ -57,8 +57,8 @@
       "max_num_assisters": 5,
       "builders": [
         "UberCommander",
-        "AnyBasicFabber",
-        "AnyAdvancedFabber",
+        "AnyUberBasicFabber",
+        "AnyUberAdvancedFabber",
         "SupportCommander",
         "OrbitalFabber"
       ],
@@ -206,8 +206,8 @@
       "max_num_assisters": 5,
       "builders": [
         "UberCommander",
-        "AnyBasicFabber",
-        "AnyAdvancedFabber",
+        "AnyUberBasicFabber",
+        "AnyUberAdvancedFabber",
         "SupportCommander",
         "OrbitalFabber"
       ],
@@ -258,8 +258,8 @@
       "priority": 258,
       "builders": [
         "UberCommander",
-        "AnyBasicFabber",
-        "AnyAdvancedFabber",
+        "AnyUberBasicFabber",
+        "AnyUberAdvancedFabber",
         "SupportCommander",
         "OrbitalFabber"
       ],
@@ -304,8 +304,8 @@
       "priority": 380,
       "builders": [
         "UberCommander",
-        "AnyBasicFabber",
-        "AnyAdvancedFabber",
+        "AnyUberBasicFabber",
+        "AnyUberAdvancedFabber",
         "SupportCommander",
         "OrbitalFabber"
       ],

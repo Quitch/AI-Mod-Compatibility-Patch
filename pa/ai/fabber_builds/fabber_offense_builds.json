@@ -8,7 +8,7 @@
       "max_num_assisters": 5,
       "priority": 350,
       "builders": [
-        "AnyAdvancedFabber",
+        "AnyUberAdvancedFabber",
         "SupportCommander"
       ],
       "build_conditions": [
@@ -78,7 +78,7 @@
       "shared_instance_count": "NukeSilo",
       "priority": 360,
       "builders": [
-        "AnyAdvancedFabber",
+        "AnyUberAdvancedFabber",
         "SupportCommander"
       ],
       "build_conditions": [
@@ -135,7 +135,7 @@
       "max_num_assisters": 12,
       "priority": 505,
       "builders": [
-        "AnyAdvancedFabber",
+        "AnyUberAdvancedFabber",
         "SupportCommander"
       ],
       "build_conditions": [
@@ -198,7 +198,7 @@
       "max_num_assisters": 12,
       "priority": 478,
       "builders": [
-        "AnyAdvancedFabber",
+        "AnyUberAdvancedFabber",
         "SupportCommander"
       ],
       "build_conditions": [
@@ -261,7 +261,7 @@
       "shared_instance_count": "UnitCannon",
       "priority": 360,
       "builders": [
-        "AnyAdvancedFabber",
+        "AnyUberAdvancedFabber",
         "SupportCommander"
       ],
       "build_conditions": [
@@ -318,7 +318,7 @@
       "max_num_assisters": 12,
       "priority": 505,
       "builders": [
-        "AnyAdvancedFabber",
+        "AnyUberAdvancedFabber",
         "SupportCommander"
       ],
       "build_conditions": [
@@ -380,7 +380,7 @@
       "max_num_assisters": 6,
       "priority": 360,
       "builders": [
-        "AnyAdvancedFabber",
+        "AnyUberAdvancedFabber",
         "SupportCommander"
       ],
       "build_conditions": [
@@ -456,7 +456,7 @@
       "max_num_assisters": 45,
       "priority": 612,
       "builders": [
-        "AnyAdvancedFabber",
+        "AnyUberAdvancedFabber",
         "SupportCommander"
       ],
       "build_conditions": [
