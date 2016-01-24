@@ -10,8 +10,8 @@
       "max_num_assisters": 5,
       "builders": [
         "UberCommander",
-        "AnyBasicFabber",
-        "AnyAdvancedFabber",
+        "AnyUberBasicFabber",
+        "AnyUberAdvancedFabber",
         "SupportCommander"
       ],
       "build_conditions": [
@@ -136,8 +136,8 @@
       "max_num_assisters": 5,
       "builders": [
         "UberCommander",
-        "AnyBasicFabber",
-        "AnyAdvancedFabber",
+        "AnyUberBasicFabber",
+        "AnyUberAdvancedFabber",
         "SupportCommander"
       ],
       "build_conditions": [
@@ -274,8 +274,8 @@
       "max_num_assisters": 5,
       "builders": [
         "UberCommander",
-        "AnyBasicFabber",
-        "AnyAdvancedFabber",
+        "AnyUberBasicFabber",
+        "AnyUberAdvancedFabber",
         "SupportCommander"
       ],
       "build_conditions": [
@@ -386,8 +386,8 @@
       "max_num_assisters": 5,
       "builders": [
         "UberCommander",
-        "AnyBasicFabber",
-        "AnyAdvancedFabber",
+        "AnyUberBasicFabber",
+        "AnyUberAdvancedFabber",
         "SupportCommander"
       ],
       "build_conditions": [

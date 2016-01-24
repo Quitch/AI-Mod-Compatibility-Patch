@@ -8,7 +8,7 @@
       "priority": 501,
       "base_sort": "FromBuilder",
       "builders": [
-        "AnyBasicFabber"
+        "AnyUberBasicFabber"
       ],
       "build_conditions": [
         [
@@ -51,7 +51,7 @@
       "priority": 499,
       "base_sort": "FromBuilder",
       "builders": [
-        "AnyBasicFabber"
+        "AnyUberBasicFabber"
       ],
       "build_conditions": [
         [
@@ -138,7 +138,7 @@
       "priority": 499,
       "base_sort": "FromBuilder",
       "builders": [
-        "AnyBasicFabber"
+        "AnyUberBasicFabber"
       ],
       "build_conditions": [
         [
@@ -231,7 +231,7 @@
       "priority": 2,
       "base_sort": "FromBuilder",
       "builders": [
-        "AnyBasicFabber"
+        "AnyUberBasicFabber"
       ],
       "build_conditions": [
         [
@@ -279,7 +279,7 @@
       "priority": 501,
       "base_sort": "FromBuilder",
       "builders": [
-        "AnyBasicFabber"
+        "AnyUberBasicFabber"
       ],
       "build_conditions": [
         [
@@ -315,7 +315,7 @@
       "priority": 499,
       "base_sort": "FromBuilder",
       "builders": [
-        "AnyBasicFabber"
+        "AnyUberBasicFabber"
       ],
       "build_conditions": [
         [
@@ -393,7 +393,7 @@
       "priority": 2,
       "base_sort": "FromBuilder",
       "builders": [
-        "AnyBasicFabber"
+        "AnyUberBasicFabber"
       ],
       "build_conditions": [
         [
@@ -435,7 +435,7 @@
       "cross_planet_shared_count": true,
       "priority": 500,
       "builders": [
-        "AnyBasicFabber"
+        "AnyUberBasicFabber"
       ],
       "build_conditions": [
         [
@@ -518,7 +518,7 @@
       "priority": 610,
       "base_sort": "FromBuilder",
       "builders": [
-        "AnyAdvancedFabber",
+        "AnyUberAdvancedFabber",
         "SupportCommander"
       ],
       "build_conditions": [
@@ -562,7 +562,7 @@
       "priority": 609,
       "base_sort": "FromBuilder",
       "builders": [
-        "AnyAdvancedFabber",
+        "AnyUberAdvancedFabber",
         "SupportCommander"
       ],
       "build_conditions": [
@@ -615,7 +615,7 @@
       "priority": 609,
       "base_sort": "FromBuilder",
       "builders": [
-        "AnyAdvancedFabber",
+        "AnyUberAdvancedFabber",
         "SupportCommander"
       ],
       "build_conditions": [
@@ -670,7 +670,7 @@
       "priority": 614,
       "base_sort": "FromBuilder",
       "builders": [
-        "AnyAdvancedFabber",
+        "AnyUberAdvancedFabber",
         "SupportCommander"
       ],
       "build_conditions": [
@@ -707,7 +707,7 @@
       "priority": 609,
       "base_sort": "FromBuilder",
       "builders": [
-        "AnyAdvancedFabber",
+        "AnyUberAdvancedFabber",
         "SupportCommander"
       ],
       "build_conditions": [
@@ -749,7 +749,7 @@
       "priority": 2,
       "base_sort": "FromBuilder",
       "builders": [
-        "AnyAdvancedFabber",
+        "AnyUberAdvancedFabber",
         "SupportCommander"
       ],
       "build_conditions": [
@@ -793,7 +793,7 @@
       "cross_planet_shared_count": true,
       "priority": 615,
       "builders": [
-        "AnyAdvancedFabber",
+        "AnyUberAdvancedFabber",
         "SupportCommander"
       ],
       "build_conditions": [
@@ -829,8 +829,8 @@
       "instance_count": 1,
       "priority": 140,
       "builders": [
-        "AnyBasicFabber",
-        "AnyAdvancedFabber",
+        "AnyUberBasicFabber",
+        "AnyUberAdvancedFabber",
         "SupportCommander"
       ],
       "build_conditions": [
@@ -871,8 +871,8 @@
       "instance_count": 1,
       "priority": 140,
       "builders": [
-        "AnyBasicFabber",
-        "AnyAdvancedFabber",
+        "AnyUberBasicFabber",
+        "AnyUberAdvancedFabber",
         "SupportCommander"
       ],
       "build_conditions": [

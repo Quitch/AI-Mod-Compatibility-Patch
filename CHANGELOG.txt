@@ -2,7 +2,7 @@
 
 #### v1.2.1 - 2016/01/24
 
-- Correctly excludes faction Commanders from trying to build vanilla buildings
+- Correctly excludes faction Commanders and fabbers from trying to build vanilla buildings
 
 #### v1.2 - 2016/01/22
 
