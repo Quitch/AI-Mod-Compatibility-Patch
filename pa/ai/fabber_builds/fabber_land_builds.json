@@ -9,7 +9,7 @@
       "min_num_assisters": 2,
       "max_num_assisters": 5,
       "builders": [
-        "Commander",
+        "UberCommander",
         "AnyBasicFabber",
         "AnyAdvancedFabber",
         "SupportCommander"
@@ -135,7 +135,7 @@
       "min_num_assisters": 2,
       "max_num_assisters": 5,
       "builders": [
-        "Commander",
+        "UberCommander",
         "AnyBasicFabber",
         "AnyAdvancedFabber",
         "SupportCommander"
@@ -273,7 +273,7 @@
       "min_num_assisters": 2,
       "max_num_assisters": 5,
       "builders": [
-        "Commander",
+        "UberCommander",
         "AnyBasicFabber",
         "AnyAdvancedFabber",
         "SupportCommander"
@@ -385,7 +385,7 @@
       "min_num_assisters": 2,
       "max_num_assisters": 5,
       "builders": [
-        "Commander",
+        "UberCommander",
         "AnyBasicFabber",
         "AnyAdvancedFabber",
         "SupportCommander"

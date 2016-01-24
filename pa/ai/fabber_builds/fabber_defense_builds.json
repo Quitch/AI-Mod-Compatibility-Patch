@@ -305,7 +305,7 @@
       "priority": 262,
       "base_sort": "FromPerimeter",
       "builders": [
-        "Commander",
+        "UberCommander",
         "AnyBasicFabber"
       ],
       "build_conditions": [
@@ -482,7 +482,7 @@
       "priority": 262,
       "base_sort": "FromPerimeter",
       "builders": [
-        "Commander"
+        "UberCommander"
       ],
       "build_conditions": [
         [
