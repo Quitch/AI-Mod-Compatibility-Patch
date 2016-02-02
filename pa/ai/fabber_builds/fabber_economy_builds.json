@@ -519,7 +519,7 @@
       "base_sort": "FromBuilder",
       "builders": [
         "AnyUberAdvancedFabber",
-        "SupportCommander"
+        "UberSupportCommander"
       ],
       "build_conditions": [
         [
@@ -563,7 +563,7 @@
       "base_sort": "FromBuilder",
       "builders": [
         "AnyUberAdvancedFabber",
-        "SupportCommander"
+        "UberSupportCommander"
       ],
       "build_conditions": [
         [
@@ -616,7 +616,7 @@
       "base_sort": "FromBuilder",
       "builders": [
         "AnyUberAdvancedFabber",
-        "SupportCommander"
+        "UberSupportCommander"
       ],
       "build_conditions": [
         [
@@ -671,7 +671,7 @@
       "base_sort": "FromBuilder",
       "builders": [
         "AnyUberAdvancedFabber",
-        "SupportCommander"
+        "UberSupportCommander"
       ],
       "build_conditions": [
         [
@@ -708,7 +708,7 @@
       "base_sort": "FromBuilder",
       "builders": [
         "AnyUberAdvancedFabber",
-        "SupportCommander"
+        "UberSupportCommander"
       ],
       "build_conditions": [
         [
@@ -750,7 +750,7 @@
       "base_sort": "FromBuilder",
       "builders": [
         "AnyUberAdvancedFabber",
-        "SupportCommander"
+        "UberSupportCommander"
       ],
       "build_conditions": [
         [
@@ -794,7 +794,7 @@
       "priority": 615,
       "builders": [
         "AnyUberAdvancedFabber",
-        "SupportCommander"
+        "UberSupportCommander"
       ],
       "build_conditions": [
         [
@@ -831,7 +831,7 @@
       "builders": [
         "AnyUberBasicFabber",
         "AnyUberAdvancedFabber",
-        "SupportCommander"
+        "UberSupportCommander"
       ],
       "build_conditions": [
         [
@@ -873,7 +873,7 @@
       "builders": [
         "AnyUberBasicFabber",
         "AnyUberAdvancedFabber",
-        "SupportCommander"
+        "UberSupportCommander"
       ],
       "build_conditions": [
         [

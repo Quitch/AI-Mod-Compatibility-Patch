@@ -183,7 +183,7 @@
       "priority": 91,
       "builders": [
         "AnyUberAdvancedFabber",
-        "SupportCommander"
+        "UberSupportCommander"
       ],
       "build_conditions": [
         [
@@ -237,7 +237,7 @@
       "priority": 247,
       "builders": [
         "AnyUberAdvancedFabber",
-        "SupportCommander"
+        "UberSupportCommander"
       ],
       "build_conditions": [
         [
@@ -297,7 +297,7 @@
       "priority": 265,
       "builders": [
         "AnyUberAdvancedFabber",
-        "SupportCommander"
+        "UberSupportCommander"
       ],
       "build_conditions": [
         [

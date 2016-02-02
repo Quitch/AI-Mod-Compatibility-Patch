@@ -12,7 +12,7 @@
         "UberCommander",
         "AnyUberBasicFabber",
         "AnyUberAdvancedFabber",
-        "SupportCommander"
+        "UberSupportCommander"
       ],
       "build_conditions": [
         [
@@ -188,7 +188,7 @@
         "UberCommander",
         "AnyUberBasicFabber",
         "AnyUberAdvancedFabber",
-        "SupportCommander"
+        "UberSupportCommander"
       ],
       "build_conditions": [
         [

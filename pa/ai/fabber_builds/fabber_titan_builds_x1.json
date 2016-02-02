@@ -10,7 +10,7 @@
       "priority": 0,
       "builders": [
         "AdvancedBotFabber",
-        "SupportCommander"
+        "UberSupportCommander"
       ],
       "build_conditions": [
         [

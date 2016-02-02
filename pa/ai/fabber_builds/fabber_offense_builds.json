@@ -9,7 +9,7 @@
       "priority": 350,
       "builders": [
         "AnyUberAdvancedFabber",
-        "SupportCommander"
+        "UberSupportCommander"
       ],
       "build_conditions": [
         [
@@ -79,7 +79,7 @@
       "priority": 360,
       "builders": [
         "AnyUberAdvancedFabber",
-        "SupportCommander"
+        "UberSupportCommander"
       ],
       "build_conditions": [
         [
@@ -136,7 +136,7 @@
       "priority": 505,
       "builders": [
         "AnyUberAdvancedFabber",
-        "SupportCommander"
+        "UberSupportCommander"
       ],
       "build_conditions": [
         [
@@ -199,7 +199,7 @@
       "priority": 478,
       "builders": [
         "AnyUberAdvancedFabber",
-        "SupportCommander"
+        "UberSupportCommander"
       ],
       "build_conditions": [
         [
@@ -262,7 +262,7 @@
       "priority": 360,
       "builders": [
         "AnyUberAdvancedFabber",
-        "SupportCommander"
+        "UberSupportCommander"
       ],
       "build_conditions": [
         [
@@ -319,7 +319,7 @@
       "priority": 505,
       "builders": [
         "AnyUberAdvancedFabber",
-        "SupportCommander"
+        "UberSupportCommander"
       ],
       "build_conditions": [
         [
@@ -381,7 +381,7 @@
       "priority": 360,
       "builders": [
         "AnyUberAdvancedFabber",
-        "SupportCommander"
+        "UberSupportCommander"
       ],
       "build_conditions": [
         [
@@ -457,7 +457,7 @@
       "priority": 612,
       "builders": [
         "AnyUberAdvancedFabber",
-        "SupportCommander"
+        "UberSupportCommander"
       ],
       "build_conditions": [
         [

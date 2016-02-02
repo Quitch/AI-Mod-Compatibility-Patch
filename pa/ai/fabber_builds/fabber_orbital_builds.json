@@ -10,7 +10,7 @@
       "builders": [
         "AnyUberBasicFabber",
         "AnyUberAdvancedFabber",
-        "SupportCommander"
+        "UberSupportCommander"
       ],
       "build_conditions": [
         [
@@ -101,7 +101,7 @@
       "builders": [
         "AnyUberBasicFabber",
         "AnyUberAdvancedFabber",
-        "SupportCommander"
+        "UberSupportCommander"
       ],
       "build_conditions": [
         [
@@ -417,7 +417,7 @@
       "priority": 612,
       "builders": [
         "AnyUberAdvancedFabber",
-        "SupportCommander"
+        "UberSupportCommander"
       ],
       "build_conditions": [
         [
@@ -567,7 +567,7 @@
         "BasicVehicleFabber",
         "BasicAirFabber",
         "AdvancedBotFabber",
-        "SupportCommander",
+        "UberSupportCommander",
         "AdvancedVehicleFabber",
         "AdvancedAirFabber"
       ],
