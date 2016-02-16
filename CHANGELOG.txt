@@ -1,5 +1,10 @@
 # CHANGELOG
 
+#### beta-v1.2.2 - 2016/02/02
+
+ - Replaced SupportCommander with UberSupportCommander to prevent mod conflicts
+ - Corrected bug preventing use of nukes by non-vanilla AIs
+
 #### v1.2.1 - 2016/01/24
 
 - Correctly excludes faction Commanders and fabbers from trying to build vanilla buildings
