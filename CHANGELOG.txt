@@ -1,6 +1,6 @@
 # CHANGELOG
 
-#### beta-v1.2.2 - 2016/02/02
+#### v1.2.2 - 2016/02/16
 
  - Replaced SupportCommander with UberSupportCommander to prevent mod conflicts
  - Corrected bug preventing use of nukes by non-vanilla AIs
