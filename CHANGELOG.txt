@@ -1,5 +1,9 @@
 # CHANGELOG
 
+#### v1.2.3 - 2016/03/01
+
+ - No, really, non-UberEnt AIs will fire nukes now.
+
 #### v1.2.2 - 2016/02/16
 
  - Replaced SupportCommander with UberSupportCommander to prevent mod conflicts
