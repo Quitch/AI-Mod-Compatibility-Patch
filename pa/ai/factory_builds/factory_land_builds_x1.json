@@ -177,7 +177,7 @@
           },
           {
             "test_type": "UnitCountOnPlanet",
-            "unit_type_string0": "UberSupportCommander",
+            "unit_type_string0": "SupportCommander",
             "compare0": "<",
             "value0": 5
           }
