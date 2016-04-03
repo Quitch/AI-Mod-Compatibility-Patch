@@ -1,12 +1,12 @@
 {
   "context": "server",
-  "identifier": "com.pa.quitch.qAIModCompatibilityPatchDev",
+  "identifier": "com.pa.quitch.qAIModCompatibilityPatch-dev",
   "display_name": "AI Mod Compatibility Patch DEV",
   "description": "The vanilla Titans AI updated to work alongside AI mods.",
   "author": "Quitch",
-  "version": "v1.2.5",
+  "version": "v1.2.6-beta",
   "build": "89528",
-  "date": "2016/03/23",
+  "date": "2016/04/03",
   "signature": "not yet implemented",
   "forum": "https://forums.uberent.com/threads/rel-titans-server-ai-mod-compatibility-patch-v1-2.70782/",
   "category": [
@@ -14,10 +14,15 @@
     "titans"
   ],
   "product": ["Titans"],
-  "id": "qAIModCompatibilityPatchDev",
+  "id": "qAIModCompatibilityPatch-dev",
   "icon": "http://i.imgur.com/NcxsYms.jpg",
+  "scenes": {
+    "new_game": [
+      "coui://ui/mods/com.pa.quitch.qAIModCompatibilityPatch/new_game.js"
+    ]
+  },
   "dependencies": [
-    "com.pa.quitch.qAIModCompatibilityPersonalitiesPatchDev"
+    "com.pa.quitch.qAIModCompatibilityPersonalitiesPatch-dev"
   ],
-  "priority": 100
+  "priority": 10
 }
