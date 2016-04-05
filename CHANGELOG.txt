@@ -1,5 +1,9 @@
 # CHANGELOG
 
+#### v1.3-beta
+
+ - Update personalities for latest Planetary Annihilation Titans release
+
 #### v1.2.6 - 2016/04/05
 
  - Account for possibility of orbital or air teleporters to ensure teleporter checks do what they're supposed to
