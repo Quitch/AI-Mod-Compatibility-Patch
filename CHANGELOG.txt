@@ -3,6 +3,7 @@
 #### v1.3-beta
 
  - Update personalities for latest Planetary Annihilation Titans release
+ - Reverted changes in 1.2.6 as both assumed changes which didn't end up working out
 
 #### v1.2.6 - 2016/04/05
 
