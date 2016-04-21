@@ -5,4 +5,4 @@ This is Sorian's official Planetary Annihilation: Titans AI, updated to work alo
 
 ## THANKS TO
 
-- wondible for his creation of the [AI Showdown](https://github.com/JustinLove/ai_showdown/) tool which allows easy setup of matches between different AIs
+ - wondible for his creation of the [AI Showdown](https://github.com/JustinLove/ai_showdown/) tool which allows easy setup of matches between different AIs
