@@ -1,10 +1,10 @@
 {
   "context": "server",
-  "identifier": "com.pa.quitch.qAIModCompatibilityPatch-dev",
-  "display_name": "AI Mod Compatibility Patch DEV",
+  "identifier": "com.pa.quitch.qAIModCompatibilityPatch",
+  "display_name": "AI Mod Compatibility Patch",
   "description": "A framework to support third party AIs running alongisde the vanilla AI.",
   "author": "Quitch",
-  "version": "v1.3.0-beta",
+  "version": "v1.3.0",
   "build": "89528",
   "date": "2016/04/17",
   "signature": " ",
@@ -20,7 +20,7 @@
     ]
   },
   "dependencies": [
-    "com.pa.quitch.qAIModCompatibilityPersonalitiesPatch-dev"
+    "com.pa.quitch.qAIModCompatibilityPersonalitiesPatch"
   ],
   "framework": true,
   "priority": 10
