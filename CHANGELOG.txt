@@ -1,6 +1,10 @@
 # CHANGELOG
 
-#### v1.3-beta
+#### v1.3.1-beta
+
+ - Removed personality updates from this framework, should be handled through per-mod new_game.js scripts
+
+#### v1.3.0 - 2016/04/25
 
  - Update personalities for latest Planetary Annihilation Titans release
  - Reverted changes in 1.2.6 as both assumed changes which didn't end up working out
