@@ -4,9 +4,9 @@
   "display_name": "AI Mod Compatibility Patch",
   "description": "A framework to support third party AIs running alongisde the vanilla AI.",
   "author": "Quitch",
-  "version": "v1.3.0",
+  "version": "v1.3.1",
   "build": "94157",
-  "date": "2016/04/25",
+  "date": "2016/04/26",
   "signature": " ",
   "forum": "https://forums.uberent.com/threads/rel-titans-server-ai-mod-compatibility-patch-v1-2.70782/",
   "category": [
@@ -14,9 +14,6 @@
     "titans"
   ],
   "icon": "http://i.imgur.com/NcxsYms.jpg",
-  "dependencies": [
-    "com.pa.quitch.qAIModCompatibilityPersonalitiesPatch"
-  ],
   "framework": true,
   "priority": 10
 }
