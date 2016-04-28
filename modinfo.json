@@ -14,11 +14,6 @@
     "titans"
   ],
   "icon": "http://i.imgur.com/NcxsYms.jpg",
-  "scenes": {
-    "new_game": [
-      "coui://ui/mods/com.pa.quitch.qAIModCompatibilityPatch/new_game.js"
-    ]
-  },
   "framework": true,
   "priority": 100
 }
