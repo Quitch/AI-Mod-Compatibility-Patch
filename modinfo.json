@@ -1,7 +1,7 @@
 {
   "context": "server",
-  "identifier": "com.pa.quitch.qAIModCompatibilityPatch-dev",
-  "display_name": "AI Mod Compatibility Patch DEV",
+  "identifier": "com.pa.quitch.qAIModCompatibilityPatch",
+  "display_name": "AI Mod Compatibility Patch",
   "description": "A framework to support third party AIs running alongisde the vanilla AI.",
   "author": "Quitch",
   "version": "v1.3.1",
