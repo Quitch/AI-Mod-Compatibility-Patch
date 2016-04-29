@@ -1,8 +1,10 @@
 # CHANGELOG
 
-#### v1.3.1-beta
+#### v1.3.1 - 2016/04/29
 
  - Removed personality updates from this framework, should be handled through per-mod new_game.js scripts
+ - You should delete the client version of AI Compatibility Patch
+ - Integrated script fix from mikeyh
 
 #### v1.3.0 - 2016/04/25
 
