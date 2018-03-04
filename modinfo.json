@@ -1,19 +1,25 @@
 {
   "context": "server",
   "identifier": "com.pa.quitch.qAIModCompatibilityPatch",
-  "display_name": "AI Mod Compatibility Patch",
-  "description": "A framework to support third party AIs running alongisde the vanilla AI.",
+  "display_name": "AI Mod Compatibility Framework",
+  "description": "A framework to support third party AIs and factions running alongside the vanilla AI.",
   "author": "Quitch",
-  "version": "v1.3.1",
-  "build": "94157",
-  "date": "2016/04/29",
+  "version": "1.4",
+  "build": "108271",
+  "date": "2018/03/04",
   "signature": " ",
-  "forum": "https://forums.uberent.com/threads/rel-titans-server-ai-mod-compatibility-patch-v1-2.70782/",
+  "forum": "https://forums.uberent.com/threads/rel-titans-server-ai-mod-compatibility-framework.70782/",
   "category": [
     "ai",
     "titans"
   ],
   "icon": "http://i.imgur.com/NcxsYms.jpg",
+  "scenes": {
+    "new_game": [
+      "coui://ui/mods/com.pa.quitch.qAIModCompatibilityPatch/new_game.js"
+    ]
+  },
   "framework": true,
-  "priority": 100
+  "priority": 100,
+  "titansOnly": true
 }

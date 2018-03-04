@@ -1,5 +1,12 @@
 # CHANGELOG
 
+#### v1.4 - 2018-03-04
+
+ - Adds the personality tag "vanilla" to the default AI difficulties so you don't have to
+ - Corrected typo that has been in the description for two years
+ - Updated readme to clarify exactly what mod does
+ - Now marked properly as a mod for Titans only
+
 #### v1.3.1 - 2016/04/29
 
  - Removed personality updates from this framework, should be handled through per-mod new_game.js scripts
@@ -22,7 +29,7 @@
 
 #### v1.2.4 - 2016/03/01
 
- - Fix to failure in git merge process
+ - Fix for failure in git merge process
 
 #### v1.2.3 - 2016/03/01
 

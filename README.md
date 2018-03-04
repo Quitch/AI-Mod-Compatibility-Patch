@@ -1,8 +1,18 @@
-AI Mod Compatibility Patch
-==========================
+# AI Mod Compatibility Patch
 
-This is Sorian's official Planetary Annihilation: Titans AI, updated to work alongside all community AI mods. Refer to it as a dependency in your AI mod and you won't need to maintain your own copy of the vanilla AI. The mod also extends the unit map support to units not covered by vanilla so you don't need to roll your own, as well as Uber pre-fixed versions of all generic builders to provide compatibility with race expansions.
+This is the vanilla Planetary Annihilation: Titans AI, updated to work alongside all community AI and faction mods. It also enables your AI to build previously unsupported units. Refer to it as a dependency in your AI mod to avoid having to roll your own solution.
 
-## THANKS TO
+### What It Does
 
- - wondible for his creation of the [AI Showdown](https://github.com/JustinLove/ai_showdown/) tool which allows easy setup of matches between different AIs
+ - Adds a check for the personality tag "vanilla" to every AI build condition
+ - Adds the "vanilla" personality tag to all vanilla difficulty levels
+ - Adds new unit names to the AI unit map to allow modded AIs to build every unit
+ - Adds new group names to the AI unit map to allow it to work with faction mods
+
+### What It Doesn't Do
+
+ - Modify the behaviour of the vanilla AI in any way
+
+## Thanks To
+
+ - wondible for his creation of the [AI Showdown](https://github.com/JustinLove/ai_showdown/) tool
