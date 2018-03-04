@@ -1,7 +1,7 @@
 {
   "context": "server",
   "identifier": "com.pa.quitch.qAIModCompatibilityPatch-dev",
-  "display_name": "AI Mod Compatibility Framework for Titans DEV",
+  "display_name": "AI Mod Compatibility Framework DEV",
   "description": "A framework to support third party AIs and factions running alongside the vanilla AI.",
   "author": "Quitch",
   "version": "dev",
