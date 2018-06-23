@@ -1,4 +1,4 @@
-# AI Mod Compatibility Patch
+# AI Mod Compatibility Framework
 
 This is the vanilla Planetary Annihilation: Titans AI, updated to work alongside all community AI and faction mods. It also enables your AI to build previously unsupported units. Refer to it as a dependency in your AI mod to avoid having to roll your own solution.
 
