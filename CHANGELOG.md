@@ -1,5 +1,9 @@
 # CHANGELOG
 
+#### v1.4.1 
+
+ - Mod icon correctly linked using HTTPS
+
 #### v1.4 - 2018-03-04
 
  - Adds the personality tag "vanilla" to the default AI difficulties so you don't have to
