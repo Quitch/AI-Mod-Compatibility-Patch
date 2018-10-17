@@ -1,6 +1,6 @@
 # CHANGELOG
 
-#### v1.5
+#### v1.5 - 2018-10-17
 
  - Updated for the changes in 112176
 
