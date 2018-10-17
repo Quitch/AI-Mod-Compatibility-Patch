@@ -1,5 +1,9 @@
 # CHANGELOG
 
+#### v1.5
+
+ - Updated for the changes in 112176
+
 #### v1.4.1 - 2018-06-23
 
  - Mod icon correctly linked using HTTPS
