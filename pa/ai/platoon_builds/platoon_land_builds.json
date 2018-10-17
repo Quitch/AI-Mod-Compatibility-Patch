@@ -161,12 +161,6 @@
             "value0": 1
           },
           {
-            "test_type": "PlanetHighestEnemyArmyThreat",
-            "string0": "AntiSurface",
-            "compare0": "<",
-            "value0": 840
-          },
-          {
             "test_type": "CanAttackWithPoolUnitsLand",
             "string0": "WL_AnySurface",
             "string1": "WL_AnySurface",
@@ -202,12 +196,6 @@
             "unit_type_string0": "(Bot & Mobile) - Fabber - AirDefense - Construction - Artillery - Heavy - SelfDestruct",
             "compare0": ">=",
             "value0": 4
-          },
-          {
-            "test_type": "PlanetHighestEnemyArmyThreat",
-            "string0": "AntiSurface",
-            "compare0": "<",
-            "value0": 2800
           },
           {
             "test_type": "CanAttackWithPoolUnitsLand",
@@ -247,12 +235,6 @@
             "value0": 10
           },
           {
-            "test_type": "PlanetHighestEnemyArmyThreat",
-            "string0": "AntiSurface",
-            "compare0": "<",
-            "value0": 5600
-          },
-          {
             "test_type": "CanAttackWithPoolUnitsLand",
             "string0": "WL_AnySurface",
             "string1": "WL_AnySurface",
@@ -288,12 +270,6 @@
             "unit_type_string0": "(Bot & Mobile) - Fabber - AirDefense - Construction - Artillery - Heavy - SelfDestruct",
             "compare0": ">=",
             "value0": 20
-          },
-          {
-            "test_type": "PlanetHighestEnemyArmyThreat",
-            "string0": "AntiSurface",
-            "compare0": "<",
-            "value0": 11200
           },
           {
             "test_type": "CanAttackWithPoolUnitsLand",
@@ -370,12 +346,6 @@
             "value0": 1
           },
           {
-            "test_type": "PlanetHighestEnemyArmyThreat",
-            "string0": "AntiSurface",
-            "compare0": "<",
-            "value0": 840
-          },
-          {
             "test_type": "CanAttackWithPoolUnitsLand",
             "string0": "WL_AnySurface",
             "string1": "WL_AnySurface",
@@ -411,12 +381,6 @@
             "unit_type_string0": "Bot & Deconstruction",
             "compare0": ">=",
             "value0": 4
-          },
-          {
-            "test_type": "PlanetHighestEnemyArmyThreat",
-            "string0": "AntiSurface",
-            "compare0": "<",
-            "value0": 2800
           },
           {
             "test_type": "CanAttackWithPoolUnitsLand",
@@ -456,12 +420,6 @@
             "value0": 10
           },
           {
-            "test_type": "PlanetHighestEnemyArmyThreat",
-            "string0": "AntiSurface",
-            "compare0": "<",
-            "value0": 5600
-          },
-          {
             "test_type": "CanAttackWithPoolUnitsLand",
             "string0": "WL_AnySurface",
             "string1": "WL_AnySurface",
@@ -497,12 +455,6 @@
             "unit_type_string0": "Bot & Deconstruction",
             "compare0": ">=",
             "value0": 20
-          },
-          {
-            "test_type": "PlanetHighestEnemyArmyThreat",
-            "string0": "AntiSurface",
-            "compare0": "<",
-            "value0": 11200
           },
           {
             "test_type": "CanAttackWithPoolUnitsLand",
@@ -579,12 +531,6 @@
             "value0": 1
           },
           {
-            "test_type": "PlanetHighestEnemyArmyThreat",
-            "string0": "AntiSurface",
-            "compare0": "<",
-            "value0": 840
-          },
-          {
             "test_type": "CanAttackWithPoolUnitsLand",
             "string0": "WL_AnySurface",
             "string1": "WL_AnySurface",
@@ -620,12 +566,6 @@
             "unit_type_string0": "Bot & SelfDestruct",
             "compare0": ">=",
             "value0": 4
-          },
-          {
-            "test_type": "PlanetHighestEnemyArmyThreat",
-            "string0": "AntiSurface",
-            "compare0": "<",
-            "value0": 2800
           },
           {
             "test_type": "CanAttackWithPoolUnitsLand",
@@ -665,12 +605,6 @@
             "value0": 10
           },
           {
-            "test_type": "PlanetHighestEnemyArmyThreat",
-            "string0": "AntiSurface",
-            "compare0": "<",
-            "value0": 5600
-          },
-          {
             "test_type": "CanAttackWithPoolUnitsLand",
             "string0": "WL_AnySurface",
             "string1": "WL_AnySurface",
@@ -706,12 +640,6 @@
             "unit_type_string0": "Bot & SelfDestruct",
             "compare0": ">=",
             "value0": 20
-          },
-          {
-            "test_type": "PlanetHighestEnemyArmyThreat",
-            "string0": "AntiSurface",
-            "compare0": "<",
-            "value0": 11200
           },
           {
             "test_type": "CanAttackWithPoolUnitsLand",
@@ -783,12 +711,6 @@
             "value0": 1
           },
           {
-            "test_type": "PlanetHighestEnemyArmyThreat",
-            "string0": "AntiSurface",
-            "compare0": "<",
-            "value0": 840
-          },
-          {
             "test_type": "CanAttackWithPoolUnitsLand",
             "string0": "WL_AnySurface",
             "string1": "WL_AnySurface",
@@ -824,12 +746,6 @@
             "unit_type_string0": "((Tank | Bot) & Mobile) - Fabber - AirDefense - Construction - Deconstruction - Titan",
             "compare0": ">=",
             "value0": 4
-          },
-          {
-            "test_type": "PlanetHighestEnemyArmyThreat",
-            "string0": "AntiSurface",
-            "compare0": "<",
-            "value0": 2800
           },
           {
             "test_type": "CanAttackWithPoolUnitsLand",
@@ -869,12 +785,6 @@
             "value0": 10
           },
           {
-            "test_type": "PlanetHighestEnemyArmyThreat",
-            "string0": "AntiSurface",
-            "compare0": "<",
-            "value0": 5600
-          },
-          {
             "test_type": "CanAttackWithPoolUnitsLand",
             "string0": "WL_AnySurface",
             "string1": "WL_AnySurface",
@@ -910,12 +820,6 @@
             "unit_type_string0": "((Tank | Bot) & Mobile) - Fabber - AirDefense - Construction - Deconstruction - Titan",
             "compare0": ">=",
             "value0": 20
-          },
-          {
-            "test_type": "PlanetHighestEnemyArmyThreat",
-            "string0": "AntiSurface",
-            "compare0": "<",
-            "value0": 11200
           },
           {
             "test_type": "CanAttackWithPoolUnitsLand",
