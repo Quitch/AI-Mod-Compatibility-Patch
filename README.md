@@ -13,6 +13,10 @@ This is the vanilla Planetary Annihilation: Titans AI, updated to work alongside
 
  - Modify the behaviour of the vanilla AI in any way
 
+## Translations
+
+Please help [translate AI Mod Compatibility Framework](https://poeditor.com/join/project/SRaVaVcO60) to your local language.
+
 ## Thanks To
 
  - wondible for his creation of the [AI Showdown](https://github.com/JustinLove/ai_showdown/) tool
