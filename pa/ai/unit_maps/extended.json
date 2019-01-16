@@ -24,6 +24,12 @@
     "AnyUberAdvancedFabber": {
       "unit_types": "((Fabber & (Advanced | Debug)) - Orbital) - Custom1 - Custom2 - Custom3 - Custom4"
     },
+    "LandMine": {
+      "spec_id": "/pa/units/land/land_mine/land_mine.json"
+    },
+    "SeaMine": {
+      "spec_id": "/pa/units/sea/sea_mine/sea_mine.json"
+    },
     "SeaScout": {
       "spec_id": "/pa/units/sea/sea_scout/sea_scout.json"
     },

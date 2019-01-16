@@ -1,5 +1,10 @@
 # CHANGELOG
 
+####
+
+ - Add Lane Mine to unit map
+ - Add Sea Mine to unit map
+
 #### v1.5 - 2018-10-17
 
  - Updated for the changes in 112176
