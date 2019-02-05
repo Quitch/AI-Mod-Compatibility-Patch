@@ -770,13 +770,6 @@
         "placement_type": "FromMainBasePerimeter",
         "unit_count_rules": [
           {
-            "unit_type_string": "Structure",
-            "alliance": "Enemy",
-            "compare_type": ">=",
-            "range": 260,
-            "count": 3
-          },
-          {
             "unit_type_string": "Structure & Basic & Artillery",
             "alliance": "Ally",
             "compare_type": "<",

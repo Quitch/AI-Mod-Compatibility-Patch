@@ -4,6 +4,7 @@
 
  - Add Lane Mine to unit map
  - Add Sea Mine to unit map
+ - Updated for changes in 112809
 
 #### v1.5 - 2018-10-17
 

@@ -54,15 +54,6 @@
       "placement_rules": {
         "buffer": 2,
         "placement_type": "FromMainBaseCenter",
-        "unit_count_rules": [
-          {
-            "unit_type_string": "Structure",
-            "alliance": "Enemy",
-            "compare_type": ">=",
-            "range": 400,
-            "count": 5
-          }
-        ],
         "threat": {
           "influence_type": "AntiSurface",
           "compare_type": "<",
@@ -431,15 +422,6 @@
       "placement_rules": {
         "buffer": 2,
         "placement_type": "FromMainBaseCenter",
-        "unit_count_rules": [
-          {
-            "unit_type_string": "Structure",
-            "alliance": "Enemy",
-            "compare_type": ">=",
-            "range": 500,
-            "count": 5
-          }
-        ],
         "threat": {
           "influence_type": "AntiSurface",
           "compare_type": "<",
