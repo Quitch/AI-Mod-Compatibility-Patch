@@ -1475,6 +1475,34 @@
             "string0": "Nuke",
             "string1": "AntiNuke",
             "compare0": ">",
+            "value0": 1.75  
+          },
+          {
+            "test_type": "UnitCountInBase",
+            "unit_type_string0": "Commander",
+            "compare0": ">",
+            "value0": 0
+          },
+          {
+            "test_type": "CanFindPlaceToBuild",
+            "string0": "AntiNukeSilo"
+          }
+        ],
+        [
+          {
+            "test_type": "HasPersonalityTag",
+            "string0": "Vanilla",
+            "boolean": true
+          },
+          {
+            "test_type": "CanAffordPotentialDrain",
+            "string0": "AntiNukeSilo"
+          },
+          {
+            "test_type": "SystemToPlanetThreatRatio",
+            "string0": "Nuke",
+            "string1": "AntiNuke",
+            "compare0": ">",
             "value0": 1.75
           },
           {

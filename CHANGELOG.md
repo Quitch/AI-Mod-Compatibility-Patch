@@ -3,6 +3,7 @@
 #### DEV
 
  - Updated for changes in 113074-dev
+ - Updated for changes in 113306-dev
 
 #### v1.6 - 2019-03-08
 
