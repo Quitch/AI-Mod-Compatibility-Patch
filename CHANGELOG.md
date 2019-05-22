@@ -4,6 +4,7 @@
 
  - Updated for changes in 113074
  - Updated for changes in 113306
+ - Fixed error in Colonel build requirements
 
 #### v1.6 - 2019-03-08
 

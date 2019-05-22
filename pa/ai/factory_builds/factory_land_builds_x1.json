@@ -173,7 +173,7 @@
           },
           {
             "test_type": "CanAffordPotentialDrain",
-            "string0": "UberSupportCommander"
+            "string0": "SupportCommander"
           },
           {
             "test_type": "UnitCountOnPlanet",
