@@ -343,7 +343,7 @@
             "string0": "Orbital",
             "string1": "AntiOrbital",
             "compare0": ">",
-            "value0": 1.0
+            "value0": 1
           }
         ]
       ]
@@ -398,7 +398,7 @@
           {
             "test_type": "PotentialEnergyEfficiency",
             "compare0": "<",
-            "value0": 1.0
+            "value0": 1
           },
           {
             "test_type": "CanAffordBuildDemand"

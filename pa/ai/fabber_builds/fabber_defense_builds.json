@@ -334,7 +334,7 @@
             "string0": "Air",
             "string1": "AntiAir",
             "compare0": ">",
-            "value0": 1
+            "value0": 1.0
           },
           {
             "test_type": "UnitCountInBase",
@@ -510,7 +510,7 @@
             "string0": "Land",
             "string1": "AntiSurface",
             "compare0": ">",
-            "value0": 1
+            "value0": 1.0
           },
           {
             "test_type": "UnitCountInBase",
@@ -679,7 +679,7 @@
             "string0": "Land",
             "string1": "AntiSurface",
             "compare0": ">",
-            "value0": 1
+            "value0": 1.0
           },
           {
             "test_type": "UnitCountInBase",
@@ -921,7 +921,7 @@
             "string0": "Air",
             "string1": "AntiAir",
             "compare0": ">",
-            "value0": 1
+            "value0": 1.0
           },
           {
             "test_type": "UnitCountInBase",
@@ -1087,7 +1087,7 @@
             "string0": "Land",
             "string1": "AntiSurface",
             "compare0": ">",
-            "value0": 1
+            "value0": 1.0
           },
           {
             "test_type": "UnitCountInBase",
@@ -1475,7 +1475,7 @@
             "string0": "Nuke",
             "string1": "AntiNuke",
             "compare0": ">",
-            "value0": 1.75  
+            "value0": 1.75
           },
           {
             "test_type": "UnitCountInBase",

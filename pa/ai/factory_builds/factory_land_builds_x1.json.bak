@@ -322,7 +322,7 @@
             "string0": "Air",
             "string1": "AntiAir",
             "compare0": ">",
-            "value0": 1.0
+            "value0": 1
           },
           {
             "test_type": "CanDeployLandFromBase",
@@ -347,7 +347,7 @@
             "string0": "Air",
             "string1": "AntiAir",
             "compare0": ">",
-            "value0": 1.0
+            "value0": 1
           }
         ],
         [
