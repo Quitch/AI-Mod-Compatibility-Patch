@@ -5,8 +5,8 @@
   "description": "A framework to support third party AIs and factions running alongside the vanilla AI.",
   "author": "Quitch",
   "version": "dev",
-  "build": "113034",
-  "date": "2019/03/08",
+  "build": "113316",
+  "date": "2019/05/25",
   "signature": " ",
   "forum": "https://forums.planetaryannihilation.com/threads/rel-titans-server-ai-mod-compatibility-framework.70782/",
   "category": [
