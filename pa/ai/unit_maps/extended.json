@@ -33,9 +33,6 @@
     "SeaScout": {
       "spec_id": "/pa/units/sea/sea_scout/sea_scout.json"
     },
-    "AdvancedFighter": {
-      "spec_id": "/pa/units/air/fighter_adv/fighter_adv.json"
-    },
     "UberSupportCommander": {
       "spec_id": "/pa/units/land/bot_support_commander/bot_support_commander.json"
     }

@@ -1,5 +1,9 @@
 # CHANGELOG
 
+#### DEV
+
+ - Updated for changes in 113655
+
 #### v1.7.0 - 2019-05-25
 
  - Updated for changes in 113074
