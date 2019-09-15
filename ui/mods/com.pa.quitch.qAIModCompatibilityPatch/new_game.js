@@ -11,7 +11,7 @@ function qAIModCompatibilityPatch() {
 
     var aiPersonalities = model.aiPersonalities();
 
-    var defaultAiPersonalities = ['Idle', 'Normal', 'Hard', 'Relentless', 'Absurd'];
+    var defaultAiPersonalities = ['Normal', 'Hard', 'Relentless', 'Absurd'];
 
     _.forEach(aiPersonalities, function (personality, name) {
         if (defaultAiPersonalities.indexOf(name) != -1) {
