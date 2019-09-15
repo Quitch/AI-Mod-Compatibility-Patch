@@ -14,7 +14,7 @@ function qAIModCompatibilityPatch() {
     var defaultAiPersonalities = ['Normal', 'Hard', 'Relentless', 'Absurd'];
 
     _.forEach(aiPersonalities, function (personality, name) {
-        if (defaultAiPersonalities.indexOf(name) != -1) {
+        if (_.includes(defaultAiPersonalities, name)) {
             personality.personality_tags = _.union(personality.personality_tags || [], ['Vanilla']);
         }
     });
