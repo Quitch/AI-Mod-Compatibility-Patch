@@ -7,10 +7,7 @@
       "shared_instance_count": "ReconAssistance",
       "cross_planet_shared_count": true,
       "priority": 200,
-      "builders": [
-        "OrbitalLauncher",
-        "OrbitalFactory"
-      ],
+      "builders": ["OrbitalLauncher", "OrbitalFactory"],
       "build_conditions": [
         [
           {
@@ -44,9 +41,7 @@
       "instance_count": 1,
       "max_num_assisters": 5,
       "priority": 195,
-      "builders": [
-        "OrbitalFactory"
-      ],
+      "builders": ["OrbitalFactory"],
       "build_conditions": [
         [
           {
@@ -79,9 +74,7 @@
       "min_num_assisters": 2,
       "max_num_assisters": 5,
       "priority": 205,
-      "builders": [
-        "OrbitalFactory"
-      ],
+      "builders": ["OrbitalFactory"],
       "build_conditions": [
         [
           {
@@ -152,9 +145,7 @@
       "instance_count": 1,
       "max_num_assisters": 5,
       "priority": 195,
-      "builders": [
-        "OrbitalFactory"
-      ],
+      "builders": ["OrbitalFactory"],
       "build_conditions": [
         [
           {

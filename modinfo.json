@@ -9,10 +9,7 @@
   "date": "2019/05/25",
   "signature": " ",
   "forum": "https://forums.planetaryannihilation.com/threads/rel-titans-server-ai-mod-compatibility-framework.70782/",
-  "category": [
-    "ai",
-    "titans"
-  ],
+  "category": ["ai", "titans"],
   "icon": "https://i.imgur.com/NcxsYms.jpg",
   "scenes": {
     "new_game": [

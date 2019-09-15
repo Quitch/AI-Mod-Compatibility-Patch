@@ -6,10 +6,7 @@
       "instance_count": -1,
       "max_num_assisters": 10,
       "priority": 97,
-      "builders": [
-        "BasicBotFactory",
-        "UnitCannon"
-      ],
+      "builders": ["BasicBotFactory", "UnitCannon"],
       "build_conditions": [
         [
           {
@@ -85,9 +82,7 @@
       "instance_count": -1,
       "max_num_assisters": 10,
       "priority": 97,
-      "builders": [
-        "BasicVehicleFactory"
-      ],
+      "builders": ["BasicVehicleFactory"],
       "build_conditions": [
         [
           {
@@ -154,9 +149,7 @@
       "instance_count": 1,
       "max_num_assisters": 15,
       "priority": 199,
-      "builders": [
-        "AdvancedBotFactory"
-      ],
+      "builders": ["AdvancedBotFactory"],
       "build_conditions": [
         [
           {
@@ -190,10 +183,7 @@
       "instance_count": -1,
       "max_num_assisters": 10,
       "priority": 199,
-      "builders": [
-        "AdvancedBotFactory",
-        "UnitCannon"
-      ],
+      "builders": ["AdvancedBotFactory", "UnitCannon"],
       "build_conditions": [
         [
           {
@@ -269,9 +259,7 @@
       "instance_count": -1,
       "max_num_assisters": 10,
       "priority": 199,
-      "builders": [
-        "AdvancedVehicleFactory"
-      ],
+      "builders": ["AdvancedVehicleFactory"],
       "build_conditions": [
         [
           {

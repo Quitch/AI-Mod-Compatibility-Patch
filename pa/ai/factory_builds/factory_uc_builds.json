@@ -6,9 +6,7 @@
       "instance_count": -1,
       "max_num_assisters": 10,
       "priority": 100,
-      "builders": [
-        "UnitCannon"
-      ],
+      "builders": ["UnitCannon"],
       "build_conditions": [
         [
           {
@@ -28,9 +26,7 @@
       "instance_count": -1,
       "max_num_assisters": 10,
       "priority": 100,
-      "builders": [
-        "UnitCannon"
-      ],
+      "builders": ["UnitCannon"],
       "build_conditions": [
         [
           {
@@ -50,9 +46,7 @@
       "instance_count": -1,
       "max_num_assisters": 10,
       "priority": 100,
-      "builders": [
-        "UnitCannon"
-      ],
+      "builders": ["UnitCannon"],
       "build_conditions": [
         [
           {
@@ -72,9 +66,7 @@
       "instance_count": -1,
       "max_num_assisters": 10,
       "priority": 100,
-      "builders": [
-        "UnitCannon"
-      ],
+      "builders": ["UnitCannon"],
       "build_conditions": [
         [
           {
@@ -94,9 +86,7 @@
       "instance_count": 1,
       "max_num_assisters": 10,
       "priority": 100,
-      "builders": [
-        "UnitCannon"
-      ],
+      "builders": ["UnitCannon"],
       "build_conditions": [
         [
           {
@@ -116,9 +106,7 @@
       "instance_count": -1,
       "max_num_assisters": 10,
       "priority": 100,
-      "builders": [
-        "UnitCannon"
-      ],
+      "builders": ["UnitCannon"],
       "build_conditions": [
         [
           {

@@ -6,10 +6,7 @@
       "instance_count": 1,
       "max_num_assisters": 5,
       "priority": 199,
-      "builders": [
-        "OrbitalLauncher",
-        "OrbitalFactory"
-      ],
+      "builders": ["OrbitalLauncher", "OrbitalFactory"],
       "build_conditions": [
         [
           {
@@ -128,10 +125,7 @@
       "to_build": "BasicRadarSattelite",
       "instance_count": 1,
       "priority": 100,
-      "builders": [
-        "OrbitalLauncher",
-        "OrbitalFactory"
-      ],
+      "builders": ["OrbitalLauncher", "OrbitalFactory"],
       "build_conditions": [
         [
           {
@@ -170,10 +164,7 @@
       "to_build": "BasicRadarSattelite",
       "instance_count": 1,
       "priority": 102,
-      "builders": [
-        "OrbitalLauncher",
-        "OrbitalFactory"
-      ],
+      "builders": ["OrbitalLauncher", "OrbitalFactory"],
       "build_conditions": [
         [
           {
@@ -208,10 +199,7 @@
       "shared_instance_count": "ReconAssistance",
       "cross_planet_shared_count": true,
       "priority": 199,
-      "builders": [
-        "OrbitalLauncher",
-        "OrbitalFactory"
-      ],
+      "builders": ["OrbitalLauncher", "OrbitalFactory"],
       "build_conditions": [
         [
           {
@@ -245,10 +233,7 @@
       "instance_count": 1,
       "max_num_assisters": 5,
       "priority": 100,
-      "builders": [
-        "OrbitalLauncher",
-        "OrbitalFactory"
-      ],
+      "builders": ["OrbitalLauncher", "OrbitalFactory"],
       "build_conditions": [
         [
           {
@@ -281,9 +266,7 @@
       "min_num_assisters": 2,
       "max_num_assisters": 5,
       "priority": 200,
-      "builders": [
-        "OrbitalLauncher"
-      ],
+      "builders": ["OrbitalLauncher"],
       "build_conditions": [
         [
           {
@@ -354,9 +337,7 @@
       "instance_count": 1,
       "max_num_assisters": 5,
       "priority": 111,
-      "builders": [
-        "OrbitalLauncher"
-      ],
+      "builders": ["OrbitalLauncher"],
       "build_conditions": [
         [
           {
@@ -385,9 +366,7 @@
       "to_build": "SolarArray",
       "instance_count": 1,
       "priority": 195,
-      "builders": [
-        "OrbitalFactory"
-      ],
+      "builders": ["OrbitalFactory"],
       "build_conditions": [
         [
           {
@@ -424,9 +403,7 @@
       "to_build": "OrbitalDeathLaser",
       "instance_count": 1,
       "priority": 195,
-      "builders": [
-        "OrbitalFactory"
-      ],
+      "builders": ["OrbitalFactory"],
       "build_conditions": [
         [
           {
@@ -461,9 +438,7 @@
       "shared_instance_count": "ReconAssistance",
       "cross_planet_shared_count": true,
       "priority": 196,
-      "builders": [
-        "OrbitalFactory"
-      ],
+      "builders": ["OrbitalFactory"],
       "build_conditions": [
         [
           {

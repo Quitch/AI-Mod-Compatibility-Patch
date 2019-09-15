@@ -8,10 +8,7 @@
       "max_num_assisters": 15,
       "shared_instance_count": "Titan",
       "priority": 0,
-      "builders": [
-        "AdvancedBotFabber",
-        "UberSupportCommander"
-      ],
+      "builders": ["AdvancedBotFabber", "UberSupportCommander"],
       "build_conditions": [
         [
           {
@@ -64,9 +61,7 @@
       "max_num_assisters": 15,
       "shared_instance_count": "Titan",
       "priority": 0,
-      "builders": [
-        "AdvancedVehicleFabber"
-      ],
+      "builders": ["AdvancedVehicleFabber"],
       "build_conditions": [
         [
           {
@@ -119,9 +114,7 @@
       "max_num_assisters": 15,
       "shared_instance_count": "Titan",
       "priority": 480,
-      "builders": [
-        "AdvancedAirFabber"
-      ],
+      "builders": ["AdvancedAirFabber"],
       "build_conditions": [
         [
           {
@@ -174,9 +167,7 @@
       "max_num_assisters": 15,
       "shared_instance_count": "Titan",
       "priority": 480,
-      "builders": [
-        "OrbitalFabber"
-      ],
+      "builders": ["OrbitalFabber"],
       "build_conditions": [
         [
           {
@@ -221,9 +212,7 @@
       "max_num_assisters": 15,
       "shared_instance_count": "Titan",
       "priority": 480,
-      "builders": [
-        "AnyUberAdvancedFabber"
-      ],
+      "builders": ["AnyUberAdvancedFabber"],
       "build_conditions": [
         [
           {

@@ -246,9 +246,7 @@
       "instance_count": 1,
       "priority": 485,
       "max_num_assisters": 3,
-      "builders": [
-        "OrbitalFabber"
-      ],
+      "builders": ["OrbitalFabber"],
       "build_conditions": [
         [
           {
@@ -292,9 +290,7 @@
       "to_build": "DefenseSatellite",
       "instance_count": 1,
       "priority": 379,
-      "builders": [
-        "OrbitalFabber"
-      ],
+      "builders": ["OrbitalFabber"],
       "build_conditions": [
         [
           {
@@ -415,10 +411,7 @@
       "min_num_assisters": 8,
       "max_num_assisters": 45,
       "priority": 612,
-      "builders": [
-        "AnyUberAdvancedFabber",
-        "UberSupportCommander"
-      ],
+      "builders": ["AnyUberAdvancedFabber", "UberSupportCommander"],
       "build_conditions": [
         [
           {
@@ -489,9 +482,7 @@
       "min_num_assisters": 3,
       "max_num_assisters": 5,
       "priority": 360,
-      "builders": [
-        "OrbitalFabber"
-      ],
+      "builders": ["OrbitalFabber"],
       "build_conditions": [
         [
           {
@@ -602,9 +593,7 @@
       "name": "Move Orbital Fabber To Planet",
       "instance_count": 1,
       "priority": 800,
-      "builders": [
-        "OrbitalFabber"
-      ],
+      "builders": ["OrbitalFabber"],
       "build_conditions": [
         [
           {
@@ -630,9 +619,7 @@
       "name": "Move Orbital Fabber To Safe Planet",
       "instance_count": 1,
       "priority": 800,
-      "builders": [
-        "OrbitalFabber"
-      ],
+      "builders": ["OrbitalFabber"],
       "build_conditions": [
         [
           {

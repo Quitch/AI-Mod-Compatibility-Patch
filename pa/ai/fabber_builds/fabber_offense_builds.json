@@ -7,10 +7,7 @@
       "min_num_assisters": 2,
       "max_num_assisters": 5,
       "priority": 350,
-      "builders": [
-        "AnyUberAdvancedFabber",
-        "UberSupportCommander"
-      ],
+      "builders": ["AnyUberAdvancedFabber", "UberSupportCommander"],
       "build_conditions": [
         [
           {
@@ -68,10 +65,7 @@
       "instance_count": 1,
       "shared_instance_count": "NukeSilo",
       "priority": 360,
-      "builders": [
-        "AnyUberAdvancedFabber",
-        "UberSupportCommander"
-      ],
+      "builders": ["AnyUberAdvancedFabber", "UberSupportCommander"],
       "build_conditions": [
         [
           {
@@ -125,10 +119,7 @@
       "min_num_assisters": 3,
       "max_num_assisters": 12,
       "priority": 505,
-      "builders": [
-        "AnyUberAdvancedFabber",
-        "UberSupportCommander"
-      ],
+      "builders": ["AnyUberAdvancedFabber", "UberSupportCommander"],
       "build_conditions": [
         [
           {
@@ -188,10 +179,7 @@
       "min_num_assisters": 3,
       "max_num_assisters": 12,
       "priority": 478,
-      "builders": [
-        "AnyUberAdvancedFabber",
-        "UberSupportCommander"
-      ],
+      "builders": ["AnyUberAdvancedFabber", "UberSupportCommander"],
       "build_conditions": [
         [
           {
@@ -251,10 +239,7 @@
       "instance_count": 1,
       "shared_instance_count": "UnitCannon",
       "priority": 360,
-      "builders": [
-        "AnyUberAdvancedFabber",
-        "UberSupportCommander"
-      ],
+      "builders": ["AnyUberAdvancedFabber", "UberSupportCommander"],
       "build_conditions": [
         [
           {
@@ -308,10 +293,7 @@
       "min_num_assisters": 3,
       "max_num_assisters": 12,
       "priority": 505,
-      "builders": [
-        "AnyUberAdvancedFabber",
-        "UberSupportCommander"
-      ],
+      "builders": ["AnyUberAdvancedFabber", "UberSupportCommander"],
       "build_conditions": [
         [
           {
@@ -370,10 +352,7 @@
       "min_num_assisters": 3,
       "max_num_assisters": 6,
       "priority": 360,
-      "builders": [
-        "AnyUberAdvancedFabber",
-        "UberSupportCommander"
-      ],
+      "builders": ["AnyUberAdvancedFabber", "UberSupportCommander"],
       "build_conditions": [
         [
           {
@@ -437,10 +416,7 @@
       "min_num_assisters": 8,
       "max_num_assisters": 45,
       "priority": 612,
-      "builders": [
-        "AnyUberAdvancedFabber",
-        "UberSupportCommander"
-      ],
+      "builders": ["AnyUberAdvancedFabber", "UberSupportCommander"],
       "build_conditions": [
         [
           {

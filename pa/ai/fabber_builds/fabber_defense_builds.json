@@ -7,9 +7,7 @@
       "shared_instance_count": "BasicAirDefense",
       "priority": 261,
       "base_sort": "FromPerimeter",
-      "builders": [
-        "AnyUberBasicFabber"
-      ],
+      "builders": ["AnyUberBasicFabber"],
       "build_conditions": [
         [
           {
@@ -108,9 +106,7 @@
       "shared_instance_count": "BasicLandDefense",
       "priority": 261,
       "base_sort": "FromPerimeter",
-      "builders": [
-        "AnyUberBasicFabber"
-      ],
+      "builders": ["AnyUberBasicFabber"],
       "build_conditions": [
         [
           {
@@ -219,9 +215,7 @@
       "shared_instance_count": "BasicAirDefense",
       "priority": 85,
       "base_sort": "FromPerimeter",
-      "builders": [
-        "AnyUberBasicFabber"
-      ],
+      "builders": ["AnyUberBasicFabber"],
       "build_conditions": [
         [
           {
@@ -304,10 +298,7 @@
       "shared_instance_count": "BasicAirDefense",
       "priority": 262,
       "base_sort": "FromPerimeter",
-      "builders": [
-        "UberCommander",
-        "AnyUberBasicFabber"
-      ],
+      "builders": ["UberCommander", "AnyUberBasicFabber"],
       "build_conditions": [
         [
           {
@@ -376,9 +367,7 @@
       "shared_instance_count": "BasicLandDefense",
       "priority": 85,
       "base_sort": "FromPerimeter",
-      "builders": [
-        "AnyUberBasicFabber"
-      ],
+      "builders": ["AnyUberBasicFabber"],
       "build_conditions": [
         [
           {
@@ -481,9 +470,7 @@
       "shared_instance_count": "BasicLandDefense",
       "priority": 262,
       "base_sort": "FromPerimeter",
-      "builders": [
-        "UberCommander"
-      ],
+      "builders": ["UberCommander"],
       "build_conditions": [
         [
           {
@@ -556,9 +543,7 @@
       "instance_count": 1,
       "priority": 85,
       "base_sort": "FromPerimeter",
-      "builders": [
-        "AnyUberBasicFabber"
-      ],
+      "builders": ["AnyUberBasicFabber"],
       "build_conditions": [
         [
           {
@@ -650,9 +635,7 @@
       "instance_count": 1,
       "priority": 262,
       "base_sort": "FromPerimeter",
-      "builders": [
-        "AnyUberBasicFabber"
-      ],
+      "builders": ["AnyUberBasicFabber"],
       "build_conditions": [
         [
           {
@@ -721,9 +704,7 @@
       "min_num_assisters": 2,
       "max_num_assisters": 5,
       "priority": 245,
-      "builders": [
-        "AnyUberBasicFabber"
-      ],
+      "builders": ["AnyUberBasicFabber"],
       "build_conditions": [
         [
           {
@@ -791,10 +772,7 @@
       "instance_count": 1,
       "priority": 255,
       "base_sort": "FromPerimeter",
-      "builders": [
-        "AnyUberAdvancedFabber",
-        "UberSupportCommander"
-      ],
+      "builders": ["AnyUberAdvancedFabber", "UberSupportCommander"],
       "build_conditions": [
         [
           {
@@ -891,10 +869,7 @@
       "instance_count": 1,
       "priority": 379,
       "base_sort": "FromPerimeter",
-      "builders": [
-        "AnyUberAdvancedFabber",
-        "UberSupportCommander"
-      ],
+      "builders": ["AnyUberAdvancedFabber", "UberSupportCommander"],
       "build_conditions": [
         [
           {
@@ -967,10 +942,7 @@
       "instance_count": 1,
       "priority": 255,
       "base_sort": "FromPerimeter",
-      "builders": [
-        "AnyUberAdvancedFabber",
-        "UberSupportCommander"
-      ],
+      "builders": ["AnyUberAdvancedFabber", "UberSupportCommander"],
       "build_conditions": [
         [
           {
@@ -1062,10 +1034,7 @@
       "instance_count": 1,
       "priority": 379,
       "base_sort": "FromPerimeter",
-      "builders": [
-        "AnyUberAdvancedFabber",
-        "UberSupportCommander"
-      ],
+      "builders": ["AnyUberAdvancedFabber", "UberSupportCommander"],
       "build_conditions": [
         [
           {
@@ -1133,10 +1102,7 @@
       "instance_count": 1,
       "priority": 0,
       "base_sort": "FromPerimeter",
-      "builders": [
-        "AnyUberBasicFabber",
-        "AnyUberAdvancedFabber"
-      ],
+      "builders": ["AnyUberBasicFabber", "AnyUberAdvancedFabber"],
       "build_conditions": [
         [
           {
@@ -1184,10 +1150,7 @@
       "to_build": "Umbrella",
       "instance_count": 1,
       "priority": 378,
-      "builders": [
-        "AnyUberBasicFabber",
-        "AnyUberAdvancedFabber"
-      ],
+      "builders": ["AnyUberBasicFabber", "AnyUberAdvancedFabber"],
       "build_conditions": [
         [
           {
@@ -1305,10 +1268,7 @@
       "to_build": "Umbrella",
       "instance_count": 1,
       "priority": 386,
-      "builders": [
-        "AnyUberBasicFabber",
-        "AnyUberAdvancedFabber"
-      ],
+      "builders": ["AnyUberBasicFabber", "AnyUberAdvancedFabber"],
       "build_conditions": [
         [
           {
@@ -1427,10 +1387,7 @@
       "instance_count": 1,
       "shared_instance_count": "AntiNukeSilo",
       "priority": 380,
-      "builders": [
-        "AnyUberAdvancedFabber",
-        "UberSupportCommander"
-      ],
+      "builders": ["AnyUberAdvancedFabber", "UberSupportCommander"],
       "build_conditions": [
         [
           {
@@ -1546,10 +1503,7 @@
       "priority": 386,
       "min_num_assisters": 5,
       "max_num_assisters": 12,
-      "builders": [
-        "AnyUberAdvancedFabber",
-        "UberSupportCommander"
-      ],
+      "builders": ["AnyUberAdvancedFabber", "UberSupportCommander"],
       "build_conditions": [
         [
           {

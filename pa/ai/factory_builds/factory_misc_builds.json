@@ -5,9 +5,7 @@
       "to_build": "NukeMissile",
       "instance_count": -1,
       "priority": 151,
-      "builders": [
-        "NukeSilo"
-      ],
+      "builders": ["NukeSilo"],
       "build_conditions": [
         [
           {
@@ -31,9 +29,7 @@
       "min_num_assisters": 3,
       "max_num_assisters": 12,
       "priority": 387,
-      "builders": [
-        "NukeSilo"
-      ],
+      "builders": ["NukeSilo"],
       "build_conditions": [
         [
           {
@@ -61,9 +57,7 @@
       "to_build": "AntiNukeMissile",
       "instance_count": -1,
       "priority": 151,
-      "builders": [
-        "AntiNukeSilo"
-      ],
+      "builders": ["AntiNukeSilo"],
       "build_conditions": [
         [
           {
@@ -87,9 +81,7 @@
       "min_num_assisters": 5,
       "max_num_assisters": 12,
       "priority": 388,
-      "builders": [
-        "AntiNukeSilo"
-      ],
+      "builders": ["AntiNukeSilo"],
       "build_conditions": [
         [
           {

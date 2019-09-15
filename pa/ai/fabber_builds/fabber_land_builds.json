@@ -599,10 +599,7 @@
       "priority": 477,
       "min_num_assisters": 3,
       "max_num_assisters": 5,
-      "builders": [
-        "BasicVehicleFabber",
-        "AdvancedVehicleFabber"
-      ],
+      "builders": ["BasicVehicleFabber", "AdvancedVehicleFabber"],
       "build_conditions": [
         [
           {
@@ -780,10 +777,7 @@
       "priority": 525,
       "min_num_assisters": 3,
       "max_num_assisters": 5,
-      "builders": [
-        "BasicVehicleFabber",
-        "AdvancedVehicleFabber"
-      ],
+      "builders": ["BasicVehicleFabber", "AdvancedVehicleFabber"],
       "build_conditions": [
         [
           {
