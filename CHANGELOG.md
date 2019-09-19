@@ -2,7 +2,7 @@
 
 #### DEV
 
-- Updated for changes in 113655
+- Updated for changes in 113663
 - Don't inject any changes into the Idle personality
 
 #### v1.7.0 - 2019-05-25
