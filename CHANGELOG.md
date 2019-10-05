@@ -1,8 +1,8 @@
 # CHANGELOG
 
-#### DEV
+#### v1.8.0 - 2019-10-05
 
-- Updated for changes in 113663
+- Updated for changes in 113783
 - Don't inject any changes into the Idle personality
 
 #### v1.7.0 - 2019-05-25
