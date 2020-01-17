@@ -1,6 +1,6 @@
 # CHANGELOG
 
-#### DEV
+#### v1.8.1 - 2020-01-17
 
 - Avoid duplicate build name
 
