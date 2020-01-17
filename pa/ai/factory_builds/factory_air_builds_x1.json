@@ -1,7 +1,7 @@
 {
   "build_list": [
     {
-      "name": "Heavy Air Bomber",
+      "name": "Advanced Air Heavy Bomber",
       "to_build": "HeavyBomber",
       "instance_count": -1,
       "max_num_assisters": 10,
