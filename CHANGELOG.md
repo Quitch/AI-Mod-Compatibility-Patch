@@ -1,5 +1,9 @@
 # CHANGELOG
 
+#### v1.8.1 - 2020-01-17
+
+- Avoid duplicate build name
+
 #### v1.8.0 - 2019-10-05
 
 - Updated for changes in 113783
