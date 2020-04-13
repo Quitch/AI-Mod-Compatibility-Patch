@@ -15,7 +15,7 @@ function qAIModCompatibilityPatch() {
 
   var defaultAiPersonalities = ["Normal", "Hard", "Relentless", "Absurd"];
 
-  _.forEach(aiPersonalities, function(personality, name) {
+  _.forEach(aiPersonalities, function (personality, name) {
     if (_.includes(defaultAiPersonalities, name)) {
       personality.personality_tags = _.union(
         personality.personality_tags || [],
