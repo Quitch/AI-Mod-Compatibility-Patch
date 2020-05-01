@@ -6,14 +6,14 @@ This is the vanilla Planetary Annihilation: Titans AI, updated to work alongside
 
 You should download and install this mod via the Planetary Annihilation TITANS in-game [Community Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=1417396826).
 
-### What It Does
+## What It Does
 
 - Adds a check for the personality tag "vanilla" to every AI build condition
 - Adds the "vanilla" personality tag to all vanilla difficulty levels
 - Adds new unit names to the AI unit map to allow modded AIs to build every unit
 - Adds new group names to the AI unit map to allow it to work with faction mods
 
-### What It Doesn't Do
+## What It Doesn't Do
 
 - Modify the behaviour of the vanilla AI in any way
 
