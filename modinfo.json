@@ -4,12 +4,22 @@
   "display_name": "AI Mod Compatibility Framework",
   "description": "A framework to support third party AIs and factions running alongside the vanilla AI.",
   "author": "Quitch",
-  "version": "1.8.1",
-  "build": "113953",
-  "date": "2020/01/17",
+  "version": "1.9.0",
+  "build": "114530-pte",
+  "date": "2020/06/24",
   "signature": " ",
   "forum": "https://forums.planetaryannihilation.com/threads/rel-titans-server-ai-mod-compatibility-framework.70782/",
-  "category": ["ai", "titans"],
+  "category": [
+    "ai",
+    "ki",
+    "ia",
+    "si",
+    "ИИ",
+    "电脑",
+    "電腦",
+    "titans",
+    "skirmish"
+  ],
   "icon": "https://i.imgur.com/NcxsYms.jpg",
   "scenes": {
     "new_game": [
