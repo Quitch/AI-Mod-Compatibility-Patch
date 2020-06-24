@@ -1,6 +1,6 @@
 # CHANGELOG
 
-## DEV
+## v1.9.0 - 2020-06-24
 
 - Add support for upcoming Easy difficulty
 
