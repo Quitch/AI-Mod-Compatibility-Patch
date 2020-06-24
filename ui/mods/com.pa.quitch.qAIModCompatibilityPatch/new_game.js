@@ -8,7 +8,7 @@ function qAIModCompatibilityPatch() {
   qAIModCompatibilityPatchLoaded = true;
 
   api.debug.log(
-    'AI Mod Compatability Framework is adding personality tag "vanilla" to all default AI personalities'
+    'AI Mod Compatability Framework is adding personality tag "Vanilla" to all default AI personalities'
   );
 
   var aiPersonalities = model.aiPersonalities();
