@@ -11,11 +11,6 @@
       "build_conditions": [
         [
           {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
-          {
             "test_type": "DesireMetal"
           },
           {
@@ -53,11 +48,6 @@
         [
           {
             "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
-          {
-            "test_type": "HasPersonalityTag",
             "string0": "SlowerExpansion",
             "boolean": false
           },
@@ -83,11 +73,6 @@
           }
         ],
         [
-          {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
           {
             "test_type": "HasPersonalityTag",
             "string0": "SlowerExpansion",
@@ -138,11 +123,6 @@
         [
           {
             "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
-          {
-            "test_type": "HasPersonalityTag",
             "string0": "SlowerExpansion",
             "boolean": false
           },
@@ -171,11 +151,6 @@
           }
         ],
         [
-          {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
           {
             "test_type": "HasPersonalityTag",
             "string0": "SlowerExpansion",
@@ -229,11 +204,6 @@
         [
           {
             "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
-          {
-            "test_type": "HasPersonalityTag",
             "string0": "SlowerExpansion",
             "boolean": false
           },
@@ -274,11 +244,6 @@
       "build_conditions": [
         [
           {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
-          {
             "test_type": "DesireMetal"
           },
           {
@@ -309,11 +274,6 @@
         [
           {
             "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
-          {
-            "test_type": "HasPersonalityTag",
             "string0": "SlowerExpansion",
             "boolean": false
           },
@@ -335,11 +295,6 @@
           }
         ],
         [
-          {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
           {
             "test_type": "HasPersonalityTag",
             "string0": "SlowerExpansion",
@@ -385,11 +340,6 @@
         [
           {
             "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
-          {
-            "test_type": "HasPersonalityTag",
             "string0": "SlowerExpansion",
             "boolean": false
           },
@@ -424,11 +374,6 @@
       "build_conditions": [
         [
           {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
-          {
             "test_type": "DesireEnergy"
           },
           {
@@ -455,11 +400,6 @@
           }
         ],
         [
-          {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
           {
             "test_type": "DesireEnergy"
           },
@@ -505,11 +445,6 @@
       "build_conditions": [
         [
           {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
-          {
             "test_type": "DesireMetal"
           },
           {
@@ -545,11 +480,6 @@
       "builders": ["AnyUberAdvancedFabber", "UberSupportCommander"],
       "build_conditions": [
         [
-          {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
           {
             "test_type": "HasPersonalityTag",
             "string0": "SlowerExpansion",
@@ -595,11 +525,6 @@
       "builders": ["AnyUberAdvancedFabber", "UberSupportCommander"],
       "build_conditions": [
         [
-          {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
           {
             "test_type": "HasPersonalityTag",
             "string0": "SlowerExpansion",
@@ -648,11 +573,6 @@
       "build_conditions": [
         [
           {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
-          {
             "test_type": "DesireMetal"
           },
           {
@@ -681,11 +601,6 @@
       "builders": ["AnyUberAdvancedFabber", "UberSupportCommander"],
       "build_conditions": [
         [
-          {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
           {
             "test_type": "HasPersonalityTag",
             "string0": "SlowerExpansion",
@@ -720,11 +635,6 @@
       "builders": ["AnyUberAdvancedFabber", "UberSupportCommander"],
       "build_conditions": [
         [
-          {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
           {
             "test_type": "HasPersonalityTag",
             "string0": "SlowerExpansion",
@@ -762,11 +672,6 @@
       "build_conditions": [
         [
           {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
-          {
             "test_type": "DesireEnergy"
           },
           {
@@ -798,11 +703,6 @@
       ],
       "build_conditions": [
         [
-          {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
           {
             "test_type": "EnergyStorageToProductionRatio",
             "compare0": "<",
@@ -840,11 +740,6 @@
       ],
       "build_conditions": [
         [
-          {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
           {
             "test_type": "MetalStorageToProductionRatio",
             "compare0": "<",

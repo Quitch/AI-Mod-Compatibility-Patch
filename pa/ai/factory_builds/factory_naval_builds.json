@@ -10,11 +10,6 @@
       "build_conditions": [
         [
           {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
-          {
             "test_type": "BaseThreatened",
             "boolean": false
           },
@@ -44,11 +39,6 @@
       "build_conditions": [
         [
           {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
-          {
             "test_type": "AloneOnPlanet",
             "boolean": false
           },
@@ -71,11 +61,6 @@
       "builders": ["BasicNavalFactory"],
       "build_conditions": [
         [
-          {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
           {
             "test_type": "AloneOnPlanet",
             "boolean": false
@@ -113,11 +98,6 @@
       "build_conditions": [
         [
           {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
-          {
             "test_type": "AloneOnPlanet",
             "boolean": false
           },
@@ -140,11 +120,6 @@
       "builders": ["AdvancedNavalFactory"],
       "build_conditions": [
         [
-          {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
           {
             "test_type": "BaseThreatened",
             "boolean": false
@@ -175,11 +150,6 @@
       "build_conditions": [
         [
           {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
-          {
             "test_type": "AloneOnPlanet",
             "boolean": false
           },
@@ -203,11 +173,6 @@
       "build_conditions": [
         [
           {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
-          {
             "test_type": "AloneOnPlanet",
             "boolean": false
           },
@@ -230,11 +195,6 @@
       "builders": ["AdvancedNavalFactory"],
       "build_conditions": [
         [
-          {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
           {
             "test_type": "AloneOnPlanet",
             "boolean": false

@@ -11,11 +11,6 @@
       "build_conditions": [
         [
           {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
-          {
             "test_type": "CanAffordBuildDemand"
           },
           {
@@ -45,11 +40,6 @@
       "build_conditions": [
         [
           {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
-          {
             "test_type": "CanAffordBuildDemand"
           },
           {
@@ -78,11 +68,6 @@
       "build_conditions": [
         [
           {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
-          {
             "test_type": "CanAffordBuildDemand"
           },
           {
@@ -100,11 +85,6 @@
         ],
         [
           {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
-          {
             "test_type": "CanAffordBuildDemand"
           },
           {
@@ -121,11 +101,6 @@
           }
         ],
         [
-          {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
           {
             "test_type": "CanAffordBuildDemand"
           },
@@ -148,11 +123,6 @@
       "builders": ["OrbitalFactory"],
       "build_conditions": [
         [
-          {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
           {
             "test_type": "CanAffordBuildDemand"
           },

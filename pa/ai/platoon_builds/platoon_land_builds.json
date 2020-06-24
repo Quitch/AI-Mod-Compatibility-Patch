@@ -9,11 +9,6 @@
       "build_conditions": [
         [
           {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
-          {
             "test_type": "UnitCountOnPlanet",
             "unit_type_string0": "Air & Factory",
             "compare0": "<",
@@ -38,11 +33,6 @@
       "build_conditions": [
         [
           {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
-          {
             "test_type": "UnitCountOnPlanet",
             "unit_type_string0": "Air & Factory",
             "compare0": "<",
@@ -66,11 +56,6 @@
       "priority": 117,
       "build_conditions": [
         [
-          {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
           {
             "test_type": "HasPersonalityTag",
             "string0": "Tutorial",
@@ -108,11 +93,6 @@
         [
           {
             "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
-          {
-            "test_type": "HasPersonalityTag",
             "string0": "Tutorial",
             "boolean": false
           },
@@ -146,11 +126,6 @@
       "build_conditions": [
         [
           {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
-          {
             "test_type": "EnemySurfacePresenceOnPlanet",
             "boolean": true
           },
@@ -177,11 +152,6 @@
       "priority": 108,
       "build_conditions": [
         [
-          {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
           {
             "test_type": "EnemySurfacePresenceOnPlanet",
             "boolean": true
@@ -215,11 +185,6 @@
       "build_conditions": [
         [
           {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
-          {
             "test_type": "EnemySurfacePresenceOnPlanet",
             "boolean": true
           },
@@ -251,11 +216,6 @@
       "priority": 106,
       "build_conditions": [
         [
-          {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
           {
             "test_type": "EnemySurfacePresenceOnPlanet",
             "boolean": true
@@ -289,11 +249,6 @@
       "build_conditions": [
         [
           {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
-          {
             "test_type": "EnemySurfacePresenceOnPlanet",
             "boolean": true
           },
@@ -325,11 +280,6 @@
       "priority": 109,
       "build_conditions": [
         [
-          {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
           {
             "test_type": "EnemySurfacePresenceOnPlanet",
             "boolean": true
@@ -363,11 +313,6 @@
       "build_conditions": [
         [
           {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
-          {
             "test_type": "EnemySurfacePresenceOnPlanet",
             "boolean": true
           },
@@ -399,11 +344,6 @@
       "priority": 107,
       "build_conditions": [
         [
-          {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
           {
             "test_type": "EnemySurfacePresenceOnPlanet",
             "boolean": true
@@ -437,11 +377,6 @@
       "build_conditions": [
         [
           {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
-          {
             "test_type": "EnemySurfacePresenceOnPlanet",
             "boolean": true
           },
@@ -473,11 +408,6 @@
       "priority": 105,
       "build_conditions": [
         [
-          {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
           {
             "test_type": "EnemySurfacePresenceOnPlanet",
             "boolean": true
@@ -511,11 +441,6 @@
       "build_conditions": [
         [
           {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
-          {
             "test_type": "EnemySurfacePresenceOnPlanet",
             "boolean": true
           },
@@ -547,11 +472,6 @@
       "priority": 108,
       "build_conditions": [
         [
-          {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
           {
             "test_type": "EnemySurfacePresenceOnPlanet",
             "boolean": true
@@ -585,11 +505,6 @@
       "build_conditions": [
         [
           {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
-          {
             "test_type": "EnemySurfacePresenceOnPlanet",
             "boolean": true
           },
@@ -621,11 +536,6 @@
       "priority": 106,
       "build_conditions": [
         [
-          {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
           {
             "test_type": "EnemySurfacePresenceOnPlanet",
             "boolean": true
@@ -659,11 +569,6 @@
       "build_conditions": [
         [
           {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
-          {
             "test_type": "EnemySurfacePresenceOnPlanet",
             "boolean": true
           },
@@ -696,11 +601,6 @@
       "build_conditions": [
         [
           {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
-          {
             "test_type": "EnemySurfacePresenceOnPlanet",
             "boolean": true
           },
@@ -727,11 +627,6 @@
       "priority": 103,
       "build_conditions": [
         [
-          {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
           {
             "test_type": "EnemySurfacePresenceOnPlanet",
             "boolean": true
@@ -765,11 +660,6 @@
       "build_conditions": [
         [
           {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
-          {
             "test_type": "EnemySurfacePresenceOnPlanet",
             "boolean": true
           },
@@ -801,11 +691,6 @@
       "priority": 101,
       "build_conditions": [
         [
-          {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
           {
             "test_type": "EnemySurfacePresenceOnPlanet",
             "boolean": true
@@ -839,11 +724,6 @@
       "build_conditions": [
         [
           {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
-          {
             "test_type": "EnemySurfacePresenceOnPlanet",
             "boolean": true
           },
@@ -875,11 +755,6 @@
       "priority": 110,
       "build_conditions": [
         [
-          {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
           {
             "test_type": "EnemySurfacePresenceOnPlanet",
             "boolean": true

@@ -11,11 +11,6 @@
       "build_conditions": [
         [
           {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
-          {
             "test_type": "DesireMetal"
           },
           {
@@ -31,11 +26,6 @@
           }
         ],
         [
-          {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
           {
             "test_type": "DesireMetal"
           },
@@ -77,11 +67,6 @@
       "builders": ["UberCommander"],
       "build_conditions": [
         [
-          {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
           {
             "test_type": "DesireEnergy"
           },
@@ -125,11 +110,6 @@
       "builders": ["UberCommander"],
       "build_conditions": [
         [
-          {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
           {
             "test_type": "DesireEnergy"
           },

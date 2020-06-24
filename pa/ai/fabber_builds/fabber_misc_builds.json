@@ -14,20 +14,10 @@
       "build_conditions": [
         [
           {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
-          {
             "test_type": "CanAffordBuildDemand"
           }
         ],
         [
-          {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
           {
             "test_type": "CurrentMetalEfficiency",
             "compare0": ">",
@@ -65,11 +55,6 @@
       "build_conditions": [
         [
           {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
-          {
             "test_type": "CanAffordBuildDemand"
           },
           {
@@ -88,11 +73,6 @@
           }
         ],
         [
-          {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
           {
             "test_type": "CanAffordBuildDemand"
           },
@@ -115,11 +95,6 @@
           }
         ],
         [
-          {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
           {
             "test_type": "CanAffordBuildDemand"
           },
@@ -161,11 +136,6 @@
       "builders": ["OrbitalFabber"],
       "build_conditions": [
         [
-          {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
           {
             "test_type": "CanAffordBuildDemand"
           },
@@ -211,11 +181,6 @@
       ],
       "build_conditions": [
         [
-          {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
           {
             "test_type": "CanAffordBuildDemand"
           },
@@ -264,11 +229,6 @@
       "build_conditions": [
         [
           {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
-          {
             "test_type": "CanAffordBuildDemand"
           },
           {
@@ -309,11 +269,6 @@
       ],
       "build_conditions": [
         [
-          {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
           {
             "test_type": "AloneOnPlanet",
             "boolean": false
@@ -357,11 +312,6 @@
       ],
       "build_conditions": [
         [
-          {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
           {
             "test_type": "PlanetWithoutFabberWithTeleporter",
             "boolean": true

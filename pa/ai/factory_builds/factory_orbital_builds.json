@@ -10,11 +10,6 @@
       "build_conditions": [
         [
           {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
-          {
             "test_type": "BaseThreat",
             "string0": "Orbital",
             "compare0": "<=",
@@ -48,11 +43,6 @@
         ],
         [
           {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
-          {
             "test_type": "BaseThreat",
             "string0": "Orbital",
             "compare0": "<=",
@@ -78,11 +68,6 @@
           }
         ],
         [
-          {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
           {
             "test_type": "BaseThreat",
             "string0": "Orbital",
@@ -129,11 +114,6 @@
       "build_conditions": [
         [
           {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
-          {
             "test_type": "PlanetIsGasGiant",
             "boolean": false
           },
@@ -168,11 +148,6 @@
       "build_conditions": [
         [
           {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
-          {
             "test_type": "PlanetIsGasGiant",
             "boolean": false
           },
@@ -203,11 +178,6 @@
       "build_conditions": [
         [
           {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
-          {
             "test_type": "CanAffordBuildDemand"
           },
           {
@@ -237,11 +207,6 @@
       "build_conditions": [
         [
           {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
-          {
             "test_type": "CanAffordBuildDemand"
           },
           {
@@ -270,11 +235,6 @@
       "build_conditions": [
         [
           {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
-          {
             "test_type": "CanAffordBuildDemand"
           },
           {
@@ -292,11 +252,6 @@
         ],
         [
           {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
-          {
             "test_type": "CanAffordBuildDemand"
           },
           {
@@ -313,11 +268,6 @@
           }
         ],
         [
-          {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
           {
             "test_type": "CanAffordBuildDemand"
           },
@@ -340,11 +290,6 @@
       "builders": ["OrbitalLauncher"],
       "build_conditions": [
         [
-          {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
           {
             "test_type": "CanAffordBuildDemand"
           },
@@ -370,11 +315,6 @@
       "build_conditions": [
         [
           {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
-          {
             "test_type": "PotentialEnergyEfficiency",
             "compare0": "<",
             "value0": 1.0
@@ -384,11 +324,6 @@
           }
         ],
         [
-          {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
           {
             "test_type": "DesireEnergy"
           },
@@ -406,11 +341,6 @@
       "builders": ["OrbitalFactory"],
       "build_conditions": [
         [
-          {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
           {
             "test_type": "PlanetIsGasGiant",
             "boolean": false
@@ -442,11 +372,6 @@
       "build_conditions": [
         [
           {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
-          {
             "test_type": "PlanetIsGasGiant",
             "boolean": false
           },
@@ -465,11 +390,6 @@
           }
         ],
         [
-          {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
           {
             "test_type": "PlanetIsGasGiant",
             "boolean": false
