@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## DEV
+
+- Add support for upcoming Easy difficulty
+
 ## v1.8.1 - 2020-01-17
 
 - Avoid duplicate build name
