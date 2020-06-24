@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## DEV
+
+- No longer injects a personality tag into all standard difficulties
+
 ## v1.9.0 - 2020-06-24
 
 - Add support for upcoming Easy difficulty
