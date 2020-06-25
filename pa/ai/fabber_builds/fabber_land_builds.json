@@ -17,11 +17,6 @@
       "build_conditions": [
         [
           {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
-          {
             "test_type": "HaveEcoForAdvanced",
             "boolean": false
           },
@@ -40,11 +35,6 @@
         ],
         [
           {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
-          {
             "test_type": "HaveEcoForAdvanced",
             "boolean": true
           },
@@ -62,11 +52,6 @@
           }
         ],
         [
-          {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
           {
             "test_type": "HaveEcoForAdvanced",
             "boolean": true
@@ -91,11 +76,6 @@
           }
         ],
         [
-          {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
           {
             "test_type": "UnableToExpand",
             "boolean": true
@@ -143,11 +123,6 @@
       "build_conditions": [
         [
           {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
-          {
             "test_type": "HaveEcoForAdvanced",
             "boolean": false
           },
@@ -170,11 +145,6 @@
         ],
         [
           {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
-          {
             "test_type": "HaveEcoForAdvanced",
             "boolean": true
           },
@@ -196,11 +166,6 @@
           }
         ],
         [
-          {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
           {
             "test_type": "HaveEcoForAdvanced",
             "boolean": true
@@ -229,11 +194,6 @@
           }
         ],
         [
-          {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
           {
             "test_type": "UnableToExpand",
             "boolean": true
@@ -281,11 +241,6 @@
       "build_conditions": [
         [
           {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
-          {
             "test_type": "HaveEcoForAdvanced",
             "boolean": false
           },
@@ -323,11 +278,6 @@
           }
         ],
         [
-          {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
           {
             "test_type": "HaveEcoForAdvanced",
             "boolean": true
@@ -393,11 +343,6 @@
       "build_conditions": [
         [
           {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
-          {
             "test_type": "HaveEcoForAdvanced",
             "boolean": false
           },
@@ -439,11 +384,6 @@
           }
         ],
         [
-          {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
           {
             "test_type": "HaveEcoForAdvanced",
             "boolean": true
@@ -512,18 +452,8 @@
       "build_conditions": [
         [
           {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
-          {
             "test_type": "HaveEcoForAdvanced",
             "boolean": true
-          },
-          {
-            "test_type": "HasPersonalityTag",
-            "string0": "Tutorial",
-            "boolean": false
           },
           {
             "test_type": "UnitCountOnPlanet",
@@ -546,18 +476,8 @@
         ],
         [
           {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
-          {
             "test_type": "UnableToExpand",
             "boolean": true
-          },
-          {
-            "test_type": "HasPersonalityTag",
-            "string0": "Tutorial",
-            "boolean": false
           },
           {
             "test_type": "UnitCountOnPlanet",
@@ -603,11 +523,6 @@
       "build_conditions": [
         [
           {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
-          {
             "test_type": "HaveEcoForAdvanced",
             "boolean": true
           },
@@ -616,11 +531,6 @@
             "unit_type_string0": "(Factory & Construction & Basic) - Orbital",
             "compare0": ">",
             "value0": 0
-          },
-          {
-            "test_type": "HasPersonalityTag",
-            "string0": "Tutorial",
-            "boolean": false
           },
           {
             "test_type": "NeedAdvancedVehicleFactory",
@@ -641,18 +551,8 @@
         ],
         [
           {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
-          {
             "test_type": "UnableToExpand",
             "boolean": true
-          },
-          {
-            "test_type": "HasPersonalityTag",
-            "string0": "Tutorial",
-            "boolean": false
           },
           {
             "test_type": "UnitCountOnPlanet",
@@ -706,11 +606,6 @@
       "build_conditions": [
         [
           {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
-          {
             "test_type": "HaveEcoForAdvanced",
             "boolean": true
           },
@@ -718,11 +613,6 @@
             "test_type": "HasPersonalityTag",
             "string0": "PreventsWaste",
             "boolean": true
-          },
-          {
-            "test_type": "HasPersonalityTag",
-            "string0": "Tutorial",
-            "boolean": false
           },
           {
             "test_type": "CurrentMetalEfficiency",
@@ -781,11 +671,6 @@
       "build_conditions": [
         [
           {
-            "test_type": "HasPersonalityTag",
-            "string0": "Vanilla",
-            "boolean": true
-          },
-          {
             "test_type": "HaveEcoForAdvanced",
             "boolean": true
           },
@@ -793,11 +678,6 @@
             "test_type": "HasPersonalityTag",
             "string0": "PreventsWaste",
             "boolean": true
-          },
-          {
-            "test_type": "HasPersonalityTag",
-            "string0": "Tutorial",
-            "boolean": false
           },
           {
             "test_type": "CurrentMetalEfficiency",

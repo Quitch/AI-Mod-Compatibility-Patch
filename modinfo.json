@@ -2,11 +2,11 @@
   "context": "server",
   "identifier": "com.pa.quitch.qAIModCompatibilityPatch",
   "display_name": "AI Mod Compatibility Framework",
-  "description": "A framework to support third party AIs and factions running alongside the vanilla AI.",
+  "description": "A framework to support community faction mods running alongside the vanilla AI.",
   "author": "Quitch",
-  "version": "1.9.0",
-  "build": "114530-pte",
-  "date": "2020/06/24",
+  "version": "2.0.0",
+  "build": "114599",
+  "date": "2020/06/26",
   "signature": " ",
   "forum": "https://forums.planetaryannihilation.com/threads/rel-titans-server-ai-mod-compatibility-framework.70782/",
   "category": [
@@ -21,11 +21,6 @@
     "skirmish"
   ],
   "icon": "https://i.imgur.com/NcxsYms.jpg",
-  "scenes": {
-    "new_game": [
-      "coui://ui/mods/com.pa.quitch.qAIModCompatibilityPatch/new_game.js"
-    ]
-  },
   "framework": true,
   "priority": 100,
   "titansOnly": true
