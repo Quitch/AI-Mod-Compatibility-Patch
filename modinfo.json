@@ -2,7 +2,7 @@
   "context": "server",
   "identifier": "com.pa.quitch.qAIModCompatibilityPatch-dev",
   "display_name": "AI Mod Compatibility Framework DEV",
-  "description": "A framework to support third party AIs and factions running alongside the vanilla AI.",
+  "description": "A framework to support community faction mods running alongside the vanilla AI.",
   "author": "Quitch",
   "version": "dev",
   "build": "114530-pte",
