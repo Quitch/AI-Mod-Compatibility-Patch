@@ -1,10 +1,10 @@
 {
   "context": "server",
-  "identifier": "com.pa.quitch.qAIModCompatibilityPatch-dev",
-  "display_name": "AI Mod Compatibility Framework DEV",
+  "identifier": "com.pa.quitch.qAIModCompatibilityPatch",
+  "display_name": "AI Mod Compatibility Framework",
   "description": "A framework to support community faction mods running alongside the vanilla AI.",
   "author": "Quitch",
-  "version": "dev",
+  "version": "2.0.0",
   "build": "114596",
   "date": "2020/06/25",
   "signature": " ",
