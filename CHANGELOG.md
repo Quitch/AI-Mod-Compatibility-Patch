@@ -1,6 +1,6 @@
 # CHANGELOG
 
-## DEV
+## v2.0.0 - 2020-06-25
 
 - No longer injects a personality tag into all standard difficulties
 - Removed redundent personality tag checks
