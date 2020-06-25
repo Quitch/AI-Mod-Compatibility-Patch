@@ -3,7 +3,7 @@
 ## v2.0.0 - 2020-06-25
 
 - No longer injects a personality tag into all standard difficulties
-- Removed redundent personality tag checks
+- Removed redundant personality tag checks
 - Removed unnecessary file shadows
 
 ## v1.9.0 - 2020-06-24
