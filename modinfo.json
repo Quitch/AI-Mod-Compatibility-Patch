@@ -23,5 +23,6 @@
   "icon": "https://i.imgur.com/NcxsYms.jpg",
   "framework": true,
   "priority": 100,
-  "titansOnly": true
+  "titansOnly": true,
+  "github": "https://github.com/Quitch/AI-Mod-Compatibility-Patch"
 }
