@@ -4,9 +4,9 @@
   "display_name": "AI Mod Compatibility Framework",
   "description": "A framework to support community faction mods running alongside the vanilla AI.",
   "author": "Quitch",
-  "version": "2.0.0",
-  "build": "114599",
-  "date": "2020/06/26",
+  "version": "2.0.1",
+  "build": "115872",
+  "date": "2022/08/08",
   "signature": " ",
   "forum": "https://steamcommunity.com/app/386070/discussions/0/1694914736008697542/",
   "category": [
@@ -20,7 +20,7 @@
     "titans",
     "skirmish"
   ],
-  "icon": "https://i.imgur.com/NcxsYms.jpg",
+  "icon": "https://raw.githubusercontent.com/Quitch/AI-Mod-Compatibility-Patch/develop/images/icon.png",
   "framework": true,
   "priority": 100,
   "titansOnly": true,
