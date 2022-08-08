@@ -20,7 +20,7 @@
     "titans",
     "skirmish"
   ],
-  "icon": "https://i.imgur.com/NcxsYms.jpg",
+  "icon": "https://raw.githubusercontent.com/Quitch/AI-Mod-Compatibility-Patch/develop/images/icon.png",
   "framework": true,
   "priority": 100,
   "titansOnly": true,
