@@ -2,6 +2,8 @@
 
 This is the vanilla Planetary Annihilation: Titans AI, updated to work alongside all community faction mods. Refer to it as a dependency in your faction mod to avoid having to roll your own solution.
 
+As of 116982 this mod is no longer required!
+
 ## Installation
 
 You should download and install this mod via the Planetary Annihilation: TITANS in-game [Community Mods](https://steamcommunity.com/sharedfiles/filedetails/?id=1417396826).
